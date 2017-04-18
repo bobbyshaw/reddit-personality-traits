@@ -1,0 +1,117 @@
+Just like Google Hangouts. Fuck Google!Fuck you, Google!Thank you!You will need your own AMO. Glad AMO is Free Software :)What is wrong here?The legacy Lastpass might never see stable v55..... ever.... I'm using the WebExtension Lastpass from Chrome WebStore in DevEdition and Nightly.802 with 10 tabs and 4 content processes in Firefox Nightly and ~20 extensions.You can theme that with themesYou will have a powerful theme support, the sidebars, the ability to hide the tab strip and have a custom tab extension manager, the new theme API will be stable and will not break with each new release.
+
+You will not be able to change the URL bar, location bar and a few other things.
+
+I will still use it since it is the most privacy-oriented browser. It is built by people and not by a corporation that sells my data, it does not listen to my microphone, it has addons that I can trust and don't track me. probably different feature flags also.DevEdition will be a repackage of beta from what I understand. You might get different prefs in Beta and DevEdition. I would say it's pretty cool.Beta had a pretty small user base since the features landed waaaay toooo sloooow. Most of us non-stable users are on DevEdition and Nightly. This will actually not affect stabilitty but the shipping speed. Smart move I would say.it used to be Nightly v55, Aurora v54, Beta v53 and stable v52. Usually after a release they all got +1. This time only beta and stable will get +1. The version in Nightly and aurora will not increase. After 2 weeks we will have Nightly v55 (still), DevEdition v54 (still), Beta v54 (this was a +1) and stable v53 (another +1).I do think processes with addons have more than 5 Mb of ram. I did not measure this.Yes. Chrome has a process per anything and you really see it in the RAM usage.Great! Report a bug to the addon dev since it seems to be easy to reproduce.Process per extension is crazy. Running WebExtensions in a separate process would be a pretty big win.As I said: if you don't care then go with Chrome.Try finding out how to debug tampermonkey. Trial and error with each TM script.The ad block arms race is over. uBlock Origin cleans everything.He calls himself a socialist and is really popular with millenials and working class.classical echonomy IS political ideology> Not if Chrome doesn't let me down!
+
+“The default install will still wiretap your room without your consent, unless you opt out, and more importantly, know that you need to opt out, which is nowhere a reasonable requirement.”
+
+https://www.theguardian.com/technology/2015/jun/23/google-eavesdropping-tool-installed-computers-without-permission
+
+If you don't care about privacy then you should be fine with Chrome. I am obviously not fine with Chrome :PFirefox is as fast as Chrome for me, it uses less ram and tabs don't crash randomly. I think it is a no-brainer for me :)Glad to help! :)It is in stable for 50% of users. It is in DevEdition for almost all users. The reason why you don't have multi process in Firefox is legacy addons which will be completly blocked in November for all users. Try DevEdition today! It is stable and it is as fast as Chrome.
+
+It also does not listen to your microphone to serve you better ads like a browser that I will not name :DSorry. I forgot to add a "not" :DNo worries :) OP will be back in November when v57 will land.I have work coleagues that use Chrome and they say that when they use all the RAM Chrome suddently stops tabs. Never saw that in Firefox. :DBefore you leave..... give one more try to [DevEdition](https://www.mozilla.org/en-US/firefox/developer/). It uses multi-process by default with 4 content processes regardless of your addons. Check the `about:performance` page and disable all the addons that slow down Firefox. Firefox still hass a lot of poorly written addons but that will soon change this year. The reason for your performance issues are your addons and not the number of processes.
+
+PS: if you have an ad blocker that is not [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) then swap it with uBO. If you have no adblocker then install uBO.Check `about:profiles` page in the new system. Create a new profile. You will also see the profile path in there. Search on the old system the profile path and copy all the files. The old profile path on the old system should be in the same place as the new one. Paste the files from the old profile inside the new profile. Launch the new profile.
+
+You can rename the new profile to "default" so you can start it by default. You cannot rename the currently running profile.I have no clue why there are 2 values. I think they had some sort of slow rollout and needed two values. It seems stupid but that is the way it is.Ce reporter perspicace! Bea că e dependent! E o problemă medicală!It is e10s, it is fine with one extra process and it is ok to toggle it from time to time.
+
+I think you can see the process ids for all the processes in `about:performance` page.
+
+Headsup: 4 processes are coming soon I think in v55.have you tried on a new profile with no addons? create one in about:profiles page.A large number of processes is not necessary a good thing. Firefox v52 has only 1 process. v55 will probably have 4. v57 has mockups for customizable number of processes. More processes means more RAM used. If Firefox can pull off the same performance as Chrome with less RAM and less processes then kudos for Mozilla.
+
+I prefer 1 content process on my machine :PThey hired a crazy right-wing clown, spied on Germany's cancelour, spied on the entire world, the clown made aqward jokes about spying on Merkel and did not want to shake hands with her. Good job USA! 29% is a really high score!I don't know what is the status of the social API in Firefox but I guess it's worth checking out.
+
+https://blog.mozilla.org/press/2012/12/firefox-gets-social-with-facebook/You can use Self Destructing Cookies to delete cookies and put Facebook in the whitelist so you will always be logged into facebook.You are not [the only person confused by this](https://bugzilla.mozilla.org/show_bug.cgi?id=1315328#c8)Try uBlock Origin instead of AdBlockPlusUsually there are addons to blame. If it is sluggish then just check `about:performance` and try to disable the addons at the that show up red as slowing down the browser. 
+
+For the memory part I think it is harder to troubleshoot. There is the `about:memory` page but it is really hard to interpret.
+
+What addons are you using? Maybe some of them are not so efficient and there are alternatives we can find. Firefox with no addons is fast. If without addons it behaves like this then it is either something specific to your setup or a Firefox bug.
+
+As a rule of thumb try to avoid addons that have [a warning sign](https://imgur.com/a/FInin) next to their permissions since they are legacy addons. For example   [this is how a legacy addon looks like](https://addons.mozilla.org/en-US/firefox/addon/smart-https/) and [this is how a non-legacy WebExtension looks like](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/).Will we get an update to fix this without messing in `about:config`?DevEdition..... whatever that will be. I use DevEdition at work and Nightly at home.Pretty cool! :)There are a few things you will not be able to do with WebExtensions only. They are APIs for people who pimp their Firefox with tons of customizations.Quantum CSS and Quantum renderer will only support web standards, so no XUL. That is why they are dropping it.It's really wierd for someone to call you by your real name on a pseudonimus social network :))
+
+Glad to help :)No. It makes no sense.> Not true. Many of the most popular extensions will be battered or impaired in WebExtensions.
+
+Chrome has 5 times more market share than Firefox with a more limited extension system that Firefox currently has.
+
+Most extensions these days are developed for Chrome first or Chrome only.
+
+This is an issue for a minority of users.
+
+> This is the ONLY thing that stands out from Firefox.
+
+How about privacy? Internet for people and not for profit? More secure addon system? All this while it has the same performance as Chrome. Than if this is the only thing that stands out why do 67% of Firefox users use it? Most of the 33% of users use uBlock Origin, AdBlockPlus or some other addon that works in Chrome also.
+
+> Like in a communist state: They forbid you all, and then with great grace they let you how nice they would ask.
+
+This is not communist. Fork it. You own it! Pay people to fork it! I think this will not happen since there are not so many of you.
+
+> But why? Seriously, I know cases where the add-on was blocked because something changed... As someone installs an extension, it wants to change! For God's sake!
+
+It's a huge pain to support all the XUL stuff, fancy customization APIs and it takes time and money from developing new standards, performance improvements and security.
+
+> Like I wrote on the bugzilla: They will begin to create Firefox forks, which make minor modifications or give up quite. These modifications, which should do extensions!
+
+I bet PaleMoon will keep some support and there will be very little forks. In order to be a lot of forks it needs to be a lot of users that want this and there are not so many users. I only use WebExtenisons at this point. I have more than 20 of them and I'm just fine.[The most popular addons don't need this](https://addons.mozilla.org/en-US/firefox/extensions/?sort=users) and [only 33% of users have one or more addon](https://blog.mozilla.org/addons/2009/08/11/how-many-firefox-users-use-add-ons/). I don't think this will kill Firefox.
+
+This should be submitted to PaleMoon as a feature request.[Snooze Tabs](https://testpilot.firefox.com/experiments/snooze-tabs)?2 reasons: APIs and developer willingness.
+
+Some APIs are only available on desktop Firefox and the addon will not work on Android.
+
+An addon that uses APIs in Android also needs to be marked as an Android addon. Some developers forget to do this or don't care.Very good example. I will use it in the future to prove the same point if you don't mind :D
+
+Does Lastpass have analytics by default? I find it really strange that lastpass.com offers a newer unlisted version of the Lastpass in AMO.Totally offtopic but you can swap Https Everywhere with [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/) it uses less resources :D I like EFF and I will go back to HTTPS Everywhere when they will make it a WebExtension :PMost addons are Free Software but that is due to the author's choice. Guess people who build Firefox addons are more Free Software people :P Also the license is visible in addons.mozilla.org while in Chrome it is not. So you might end up installing a Free Software Chrome extension but you need to click in several places to figure out if the code is available or not.
+
+One more thing: Firefox addons in AMO need to be reviewed by a volunteer so even the proprietary/obfuscated extensions need to provide the source code to the reviewer.You only need to update it. You can remove Privacy Badger and install it if you want bu there is an option to force update all addons.
+
+I found a performance bug in this combination Privacy Badger + Dark Mode (WebExtension) + google docks but I think this will be fixed soon. Besides this PB is fast.Is it the same with Chrome extensions?My personally modified and signed addons work just fine.
+
+A lot of people started to care about privacy. They know that they cannot kick out Google but at least they know that the newtab addon they just installed does not sell their history to some other company.Most users have no addons. A lot of addons have Chrome alternatives that will be ready in November. People will not care especially since it will increase performance.Privacy Badger is fast again. It is a WebExtension now.It might be a Nightly thing since I use the official Nightly from Mozilla.>     until November
+> 
+> Also after. Probably even moreso after.
+
+Actually I don't think so. The people who complain now are power users. They will switch to WebExtensions, to ESR or to PaleMoon until November. It was the same with addon signing. Nobody complains now about addon signing.I trust Firefox more than an antivirus to detect them.Play DRM is disabled in Nightly on a new profile in about:preferences#content> I only see that firegestures is red/brown.
+
+Try disabling it. It is the one that probably slows down the whole browser.
+
+> pocket
+
+pocket is abuiltin addon that uses more resources than Privacy Badger :))I think the last 3 are pretty bad on performance. Try [this instead of REH](https://andreicristianpetcu.github.io/chrome2firefox/addons/unofficial_reddit_enhancement_suite-5.4.3-an+fx.xpi), it uses less resources (it's basically REH for Chrome). For mouse gestures try [this WebExtension](https://addons.mozilla.org/en-US/firefox/addon/basic-gestures/).
+
+Which addons show up red in about:performance?Ubuntu at work and Fedora at home[Firefox will also have builtin headless mode](https://bugzilla.mozilla.org/show_bug.cgi?id=1338004) and you can also use [SlimmerJS](https://slimerjs.org/features.html)
+
+`MOZ_HEADLESS=1 /path/to/firefox/nightly/firefox`
+
+It will probably land in v55SOOOO COOOL! Please use the [Photon flair](https://www.reddit.com/r/firefox/search?sort=new&restrict_sr=on&q=flair%3APhoton) :)Same profile or different profiles?I think it's lazy loaded and opt in. It downloads the DRM separately.
+
+I entered a DRM web site some time ago and I got asked if I want to run the DRM.v57 will be a huge change. No more legacy addons, new UI, fancy new WebExtension support and probably some Quantum project. This will be a huuuuge change in Firefox. I really like all of the changes but some of them are controversial. Some people will have different opinions and you will see more and more debate about v57 until November.I think it's a matter of taste. If I can do something on one addon once I prefer to do it over changing an about:config flag on all my computers on all my profiles (I have a few).
+
+> By the way, I upvoted your comment because it is contributing to the discussion.
+
+Thank you!You can keep the unsigned addon for yourself. You don't need to share it with others. I have some addons that are changed and shared and others that are changed and not shared.Why did people downvoted my [other comment](https://www.reddit.com/r/firefox/comments/653e8t/plan_to_merge_aurora_with_beta_keeping_devedition/dg7b76x/)? I just [wanted to be helpful](https://www.reddit.com/r/firefox/comments/653e8t/plan_to_merge_aurora_with_beta_keeping_devedition/dg7g3mb/).> It isn't inherently unsafe, it just means Mozilla hasn't reviewed them.
+
+[Mozilla does not need](https://blog.mozilla.org/addons/2015/12/01/de-coupling-reviews-from-signing-unlisted-add-ons/) to [review your code](https://developer.mozilla.org/en-US/Add-ons/AMO/Policy/Reviews)
+
+Just zip the changed addon, make an addons.mozilla.org account and upload the changed addon [in this url](https://addons.mozilla.org/en-US/developers/addon/submit/upload-unlisted) if your addon is unlisted. You might need to generate a new [GUID](http://www.somacon.com/p113.php) for your addon before signing.
+
+Mozilla will only check that you do not use vulnerable dependencies like old jQuery, old AngularJS and I thin you might want that and it will also check that the addon will not be tampered with by any other application like a pesky antivirus or some other app.
+
+If you have any issues with this then please tell me and I can help you. If you want to share your modified addon, just make a [github page](https://pages.github.com/) with it and it will work with one click install on any Firefox.this is for e10s not web extensions 
+
+I think you mean https://arewewebextensionsyet.com/Usually it's some addon. Check `about:performance`. May I make a wild guess here? It's either Lastpass or an antivirus addon.Why do you need to load unsigned addons? That is unsafe. Why not sign the addons yourself. I can help you out if you have issues with this but it is pretty trivial.So basically DevEdition is a repackaging of Beta?I made a collection. I hope it is useful for you https://addons.mozilla.org/en-US/firefox/collections/andreipetcu/webextensions-i-like/Fucking Lastpass. Half of issues here for performance, RAM or crashes are Lastpass. Fuck Lastpass!
+
+Hey /u/tribeclimber try using Bitwarden. It is a webextension and it does not suck.
+
+https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/Actually WebExtensions improved startup a lot. [I have around 20 WebExtensions](https://addons.mozilla.org/en-US/firefox/collections/andreipetcu/favorites/) enabled and Firefox Nightly starts in about 2 seconds from a cold start. I would say that is pretty fast.
+
+I have no legacy addons.This is the blog post I wait for each 2 weeks :D It is really cool and informative :Dreally cool! :DQuantum Flow is made up of performance improvements that are not part of Quantum Rendering, Quantum CSS, Quantum DOM and other new Quantum stuff. You don't need to enable it explicitly.I has them for quite q while. They even landed in DevEdition and they might land in beta this week.:( :( but but but.... why?Which protocol? HOTP or U2F? HOTP works anywhere since it presents itself to the OS as a keyboard while U2F talks directly to the browser over an open standard.
+
+U2F works fine with the Firefox addon on Youbikey's demo web site it just fails in Google (no shock there... :| )Generated password + bitwarden :DGreat! :)Cool! How can I enable it in NIghtly? Any flag for this?Thank you but they are all legacy addons. Even the one with WebExtension in the name :(Thank you but it's a legacy addon. I want a WebExtension.Uuuu sorry.... it's not proprietary. [Proprietary](https://en.m.wikipedia.org/wiki/Proprietary_software) means that users do not have access to the source code, cannot modify it, cannot share it or cannot share the modifications. Basically it means it lacks [the 4 freedoms](https://en.m.wikipedia.org/wiki/Free_software#Definition_and_the_Four_Freedoms). I was confused by the fact that it had a custom license in AMO. It usually means that it is prorpietary but not always.
+
+I was wrong. It seems it is under [the GPL license and the code is on GitHub](https://github.com/Tampermonkey/tampermonkey/blob/master/COPYING). I only use Free Software since it's the only software I can really trust.
+
+Lastpass is the worst performing addon I ever saw. It's junk. They are working on a WebExtension version but it is buggy. I advise you to use [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/). If you really need Lastpass then I can show you how to convert a buggy WebExtension until Lastpass releases a WE version. Lastpass is proprietary, Bitwarden is Free Software :D
+
+There is [ongoing work to make REH a WE addon](https://github.com/honestbleeps/Reddit-Enhancement-Suite/issues/3510). I think it is not yet a WebExtension. I made [an unofficial port](https://andreicristianpetcu.github.io/chrome2firefox/addons/unofficial_reddit_enhancement_suite-5.4.3-an+fx.xpi) until they release the official one.
+
+[TabMixPlus might get it's needed APIs to be a WebExtension](https://www.ghacks.net/2017/04/06/mozilla-audited-tab-mix-plus-for-webextensions-compatibility/).What I have entered previously or some configurable way to select what to enter.[Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) but it's proprietary :(I know. And I agree with you but whenever I replaced a legacy addon with a WebExtension I got a huge performance and responsiveness boost. uBlock Origin is the best example for your case. uBO is a legacy addon but it is freakin' fast.

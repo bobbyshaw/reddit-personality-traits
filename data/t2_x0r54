@@ -1,0 +1,204 @@
+2% because everyone knows that USA cannot be trusted. They pursue their own interests and nothing else matters.Google employees use Goofbuntuhttp://i.imgur.com/lGdLXu1.pngDirect downloads means that the files are already on your drive, even if you click *Cancel*. [Here's](https://www.reddit.com/r/firefox/comments/5u40gs/the_download_starts_and_gets_to_100_before_i/) my post on this issue. 
+
+They call it a feature, BTW.*Stress* is relative if `/dev/sda2` is rarely or never filled but yeah, nothing wrong with  using the second drive for swap.A swap drive that is never used? That's a bad idea :)Nothing but a blank page for me.I don't care how good VSCode is, as long as MS signature is on it then is not for me.
+
+Atom is awesome but it have a huge problem namely *PHP debugging* which works great if a Vagrant server is deployed or PHP is installed locally but all my projects are on a physical server. 
+
+PhpStorm uses SSH and works just fine. [htop](https://www.archlinux.org/packages/?q=htop)Yes, I use a desktop with a relatively small SSD in it. It's true, the system never used the swap partition but I'm sure there are some I/O. `/dev/sda2` partition is intact so if something goes wrong I will reenable it.
+
+Lol... I know, PhpStorm may not be the best option but surely it has some nice features. IntelliJ Toolbox + PhpStorm EAP is slow as turtle so i'm still looking for alternatives.`lsblk` shows that the swap partition is still there meaning that `swapon /dev/sda2` will work just fine. Here's more info on [Swap space](https://wiki.archlinux.org/index.php/Swap).
+
+Give it a try, you have nothing to lose :)
+
+**Edit**
+
+Open `/etc/fstab` and make sure to comment out the swap corresponding linePhone number? Thanks but I think I'll passSwap can be slow and expensive(in case of SSDs) so `swapoff` disables the swap partition and can be usefull if the amount of RAM is sufficient/never filled by programs. However, when you're running out of RAM, then system will start killing processes.
+
+I use my PC for things like PhpStorm, Atom, MySQL Workbench, browsing and mail so 8GB is more than I need."Terrorism" always was and will be a pretext, an excuse for all the nasty things that happen in the worldDamn, you got me. I'm tired af :)That is an autonomous robot not a drone.
+
+**Drone** noun according to ~~disctionay~~ dictionary:
+
+> a. an unmanned aircraft or ship that can navigate autonomously, without human control or beyond line of sight: *the GPS of a U.S. spy drone.*
+
+> b. (loosely) any unmanned aircraft or ship that is guided remotely: *a radio-controlled drone.*
+
+Autonomous vacuum cleaners like iRobot are not drones.Let's call every device powered by electricity, "drone". Sounds cool, ya know?That's the point, I do not want to pay or allow anyone to steal and sell my data. Such organizations should not exist.lolI know, but there are solutions against browser fingerprinting. Privacy should be like those quality safes which unfortunately are not unbreakable but harder to break.
+
+Do not give up!Well, I too want to live a functional life. I spend ~10 hours a day at PC working as a web developer. You would be surprised of how many free and stable Wi-Fi networks you can find in a few miles radius.Because ME modules are not opensourced and is pretty hard to figure out how everything works. There are tools like [ME_cleaner](https://github.com/corna/me_cleaner). Also [Purism](https://puri.sm/posts/neutralizing-intel-management-engine-on-librem-laptops/) claim that they managed to remove it entirely. If this apply to Europe ISPs, then it's simple, I will terminate my net subscription, buy a long range antenna and use free Wi-Fi from gas stations, coffee shops and banks.
+
+I actually wanted to do it earlier but I did not have a solid reason.Download them to your server and use .htaccess to cache them. Google fonts  can be slow sometimes and *flash of ustyled text* would be likely to happen. 
+Not to mention that google fonts are another way of [user tracking](https://stackoverflow.com/questions/10977593/can-google-track-me-if-i-use-google-web-fonts)"Rank close"? I don't think so. Red pandas are over 9000 on the awww scale :)This is how I want to configure my network but i'm not sure if I need a switch or the [ER6120](http://www.tp-link.com/us/products/details/cat-4909_TL-ER6120.html) router would be enough. My plan is to change the old dumb switch with [SG3216](http://www.tp-link.com/us/products/details/cat-39_TL-SG3216.html) L2 managed and see how it goes.
+
+It is possible to access MySQL and web servers from a different VLAN? Right now, all my project names can be resolved by the local DNS server and are available at *projectName.dev*In `~/.config/gtk-3.0/gtk.css`Oh, sorry for the misunderstanding. I Use xfce4-terminal and 
+
+    VteTerminal, vte-terminal {
+        padding: 15px;
+     }
+
+worked like a charm.
+
+Thank youNope, internal padding in zsh. I would like to change it to 10px or something.Yes, internal padding. Text is a bit too close to the edges. I use zsh> Cisco researchers said they discovered the vulnerability
+
+This is BS. All they want is a clean public image.ER6120 is a pretty good router and I don't need more than 200-300Mbps atm. I would rather go for a second ISP than a 1000 Mbps capable router.In Romania, we pay ~$9 for 1000/500 Mbps but unfortunately my TP-Link ER6120 router can't handle those speeds.Do it, AMD! XPS 13 is already on my shopping list and hopefully Ryzen for my workstation will be added soon.You should remove the `@namespace` line from `userChrome.css`. These are my CSS files:
+
+[userChrome.css](http://yolodev.ro/userChrome.css) [userContent.css](http://yolodev.ro/userContent.css)Sure, no problem. Try to use `userContent.css` if `userChrome.css` does not workFuck off Razer, I don't trust you!I hope Facebook will die soon> Secure Connection FailedEnglish, bitch! People around the world are trying to understand each other using English in this sub. 
+
+I'm not a native English speaker, but at least I try to make myself understood.It works and I love it.
+
+`!important` directive should be used with `display` property and the code should be put in `userChrome.css` file. I have no idea why, but for me didn't work if I write it in `userContent.css`.
+
+Thank youPageviews. Review websites are the worst because they split a review in multiple sections/pages.Definitely a good read even for experienced designers, thank you. Worth to mention that `line-height: 0` works for icon fonts when property line-height is already set on parent.
+
+That's because icon fonts  have different heights so for example *3-horizontal-dots* icon, will never be aligned as an *email* icon when `line-height: normal` or `line-height: 1` is set by default`box-sizing: border-box` will do the trick. Actually you should use it on all your projects so you don't have to set negative margins or calculate borders and paddings.
+
+https://codepen.io/wdub/pen/GrebjODevelopment time is not a problem if you use tested snippets from previous projects. Few years ago I realized that I use only ~10% of jQuery features so I decided to write a small DOM manipulation library called [jSpine](https://github.com/wdub/jspine) which helped me a lot and I use it in almost every project.
+
+> Also, the web is doing a lot more in 2017 compared even to 2012
+
+What exactly? Animations and transitions, arithmetic calculations, selectors, 3D transforms? 
+
+HTML transfer size and HTML requests are the same as 4-5 years ago so we're talking about the weight/amount of CSS and JS files/code which is worrying and is not leading to a better web.
+
+The features mentioned above, should not reflect an increase of nearly 200%(natural increase plus a gain from dropping flash and other things).
+
+Don't get me wrong, I'm not against frameworks and libraries but it drives me crazy when people are using them everywhere.So you're trying to promote again this bloated Propeller framework. Let me tell you why wombo combos like this are bad and should be avoided.
+
+Despite the fact that in the last 5 years, Flash requests and Flash transfer size droped by more than 90%, pages are slower because of CSS, JS and custom fonts.
+Here are some stats:
+
+**According to [httparchive.org](http://httparchive.org/trends.php?s=All&minlabel=Jan+1+2013&maxlabel=Feb+1+2017#bytesTotal&reqTotal), average page weight increased by:**
+
+- 30% in 2012
+
+- 32% in 2013
+
+- 15% in 2014
+
+- 16% in 2015
+
+* ? - 2016
+
+**total requests increased very little so total transfer size and total requests are not direct proprotional*
+
+Scary stuff, I know.
+
+These being said, stop using fat libraries and frameworks if the amount of custom raw code meet the needs.
+
+
+Here's a simple formula for let's say jQuery(same apply to CSS frameworks):
+
+`if the amount of raw code > (jQuery code + jQuery library)` then rolling your own is a bad idea. 
+
+Stop being lazy, folks. Learn the basics and take wise decisions
+Yeah, and i'm sure I wrongly estimated when I said 1 in 1000 cases. That could happen more often than we think.
+
+It's like a gearbox that sometimes is shifting by itself to 1st gear, before you write the destination address in to your nav system or to get the car out of the garage. 
+
+What the manufacturer will tell you?
+
+*"Oh, we thought that you're rushed all the time and we want our customers to reach their destination faster"*
+
+This is the wrong way of optimizing things and is one of those "nopes" you don't want in your browser.Sure, I'm aware of that. I do not expect anyone to write it for me.Well, it happened few times. Let's say 0.1%, which means 1 in 1000 users/cases(could be more) will  download a file without even noticing. If the average file size is 100MB which is nothing for a 4G or the old 100Mbps connection, multiplied by 500 million Firefox users(?) translates to ~48TB of wasted bandwidth, UX and processing power.
+
+I think there should be an option called *Optimize downloads* or something.
+
+> Should be fairly easy to write and if you're interested, I'll be happy to mentor you.
+
+Thanks for your kindness, I would love to have such a pref :)Tbh, I don't see this as an optimization *to get files faster* but a waste of bandwidth, processing power and browser performance.
+
+What if the file size is not specified and I decide to not save it when the confirmation dialog pops up, or my phone rings before I choose where to save the file?
+
+These are just 2 scenarios that comes to my mind now and I'm sure this "feature" should be disabled by default for the sake of a healthy Internet :)This is Gold. Saved...I love the clean terminal. What font is that?Bootstrap, jQuery, Material, Propeller? Why?
+
+Develop more, code less, you say?
+
+    class="btn btn-lg pmd-ripple-effect pmd-btn-raised green-btn text-center"
+
+No, thanks
+
+**EDIT**
+
+It looks like these guys are [insistent](https://www.reddit.com/r/webdev/comments/5u60w6/propeller_a_frontend_responsive_framework_based/).
+
+The discussion continues [here](https://www.reddit.com/r/webdev/comments/5u60w6/propeller_a_frontend_responsive_framework_based/ddrwklw/)You're right, it's not the best option. I hope that soon there will be an option in `about:config` or console preferences because that breadcrumb is redundant. DOM elements are already highlighted when you click them.Don't worry, it's *The American Dream*Good work, I'll definitely use it. It records all screens in case of multi-monitor setups?
+
+Please add an option for recording screen1, screen2 and so on. Also, *follow mouse cursor* would be a nice featureTrue, but even 4GB are enough for Facebook and Youtube. Few other guys have the same problem so it might be a HW acceleration bug on OSX version of Firefox.That is a stupid question. Firefox works great on my very old Latitude 13 which is not a powerfull machine. 
+
+1.3Ghz, Intel SSD, 2GB DDR3 + Arch is more than enough for 720p, 2 extensions(HTTPS everywhere & uBlock Origin) and ~10 tabsNow try selling those products to people poorer than beforeI hope more Pi-Holes will suck the other 70%This is crazy! Why MS want users to vote for must-have technologies/features ? Fuck them i'd sayGoldUpdate to 53.0a2At least is not [lagging](https://www.youtube.com/watch?v=aTHOvv0S6eI) anymore but it is still worse than the old version. 
+
+Open `about:config` , change `devtools.responsive.html.enabled` to **false** and enjoy.XFCE panel. This is how I set it up http://i.imgur.com/tKiaOQ1.jpgThanks for the reply. Not only it would be enough for a DNS server but it has 2 x USB and 1 x SATA ports which is nice.
+
+Right now I use an old netbook (Intel Atom N450) which is overkill, bulky, runs hot and draw ~10W from the wall.Sorry for the late reply. I stayed up until 4am this morning.
+
+> **cat /proc/version**
+>
+>Linux version 2.6.12.6-VENUS (airhank@localhost.localdomain) (gcc version 3.4.4 mipssde-6.03.01-20051114) #74 Fri Jan 21 10:23:19 KST 2011
+ 
+>**cat /proc/mounts**
+>
+> rootfs / rootfs rw 0 0
+>
+/dev/root / yaffs2 rw,noatime 0 0
+>
+none /dev devfs rw 0 0
+>
+none /proc proc rw,nodiratime 0 0
+>
+devpts /dev/pts devpts rw 0 0
+>
+none /sys sysfs rw 0 0
+>
+none /tmp ramfs rw 0 0
+>
+/dev/mtdblock/2 /usr/local/etc yaffs2 rw,noatime 0 0
+>
+/dev/rd/0 /mnt/rd vfat rw,nodiratime,fmask=0022,dmask=0022,codepage=cp437,iocharset=iso8859-1 0 0
+This is awesome. Gotta love those *floating* icons :) [https://i.imgur.com/hV9WKtY.png](https://i.imgur.com/hV9WKtY.png)
+
+Salutari !That's IndiaI chose "Steam Beta Update", restarted but nothing changed. I hope this will get fixed an there will be an option to show installed games only. 
+
+It seems that the default setting for that list is 15(played or not, installed or not) and tbh I've never played 15 games in a short period of time.
+
+That's why Zen Bound which I never played, is always shownWhat? I know that my english is bad. Did I said something wrong ?I downloaded and played Factorio Demo recently but I've never played Zen Bound and few others.Why I'm not going back to Windows?
+
+- because Linux is not a resource hog
+
+- it's more secure
+
+- I don't need licenses for every piece of software
+
+- it's more suitable for programming and testing stuff
+
+- because i love Linux community
+
+Most of the games I play are available on Linux so yeah, it's the perfect OS for me.I'm sure this is easy to fix and devs definitely should do it because there is no reason to show games i've played 2 years ago.I love your wooden deskInox or ungoogled-chromium if you need cross-browser testing and Firefox as a daily driver which flies even on 2GB or 4GB RAM.NerdsLol, so many pop-ups. Let's nuke this post[Here's](http://www.lfpress.com/2017/01/06/who-was-samuel-maloney-the-london-man-shot-dead-by-police-on-duchess-avenue) a more complete article on what happened.WTF! Everything was just fine. Why the need of change ?That would be awesome.They are everywhere, like bubonic plague :). 70% windows, 30% SteamOS  i would say. 
+
+Since those are checkboxes and not radio inputs, they should respect user's preferences FFS. If i want SteamOS + Windows, then i check those.
+ 
+I'm mad because they are doing it on purpose.Thank you, [it works !](https://www.youtube.com/watch?v=9Ti5TzNLSJ0) .
+
+Now, transition from page to page seems more smooth. This should be configurable in `about:config` or a feature of every theme because is part of the browser UI and does not affect the page that is being loaded.Default *developer edition* theme + few additions.
+
+[https://github.com/wdub/firefox-stuff](https://github.com/wdub/firefox-stuff)`about:blank` should do the trick but doesn't work for me. Maybe Firefox ignores `userChrome.css` and `userContent.css` before the page is loaded.
+
+This is annoying because that white background hits me in the face whenever i open a page in a new tab.
+
+
+**EDIT:**
+Firefox ignores ~~userChrome.css and userContent.css`~~ html and body selectors before/while the page is loading
+I googled garbage and I found MicrosoftWhy 3 PM? Because HL3, folks !I've stopped using Google ~1 year ago. DDG is the way to goI wish I have more money to buy all the linux-compatible gamesThey are awesome. The new Rust-based Firefox should be codenamed **Shifu** or something instead of Servo :).He can go fuck himselfMy 775 motherboard with a Q6600 CPU died a week ago and now I use an Intel Pentium G620 (2.6GHz dual-core with 3MB cache) and 4GB DDR3 which is more than enough for firefox dev edition with 20 tabs opened, PhpStorm, Thunderbird, MySQL workbench, steam, music....
+
+Linux(any distro) on a SSD and a dedicated dev environment saved me a lot of time and money. For me, more than 2 cores with 2 or 4 threads and 4GB memory would be a waste of energy and resources.I'm from Romania where the minimum wage is ~270 Euro, so you're right. The PhpStorm licence for individual customers(89 euro) will cost 1/3 from a salary that small.That would be an option but the project I work on doesn't meet all the requirements. It's a JS library which is pretty stable and doesn't get updated on regular basis.
+
+> Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted.
+
+So repo and a demo page is not enough :)Beta version looks promising. 5am here so I'll give it a try tomorrow.
+
+Thanks yaazz.Thanks for the suggestion.
+
+
+> Remember to install .zip & .tar.gz versions into COMPLETELY EMPTY FOLDER. Do not just unpack over previous version!
+
+I wonder if the old `WebIde90` folder should be removed from `/home/{user}`This is gold!> "I am trying. It is not stopping at neutral," said Mr Gandhi, before a faint beep could be heard as he tried turning off his engine by pressing the start-stop button.
+
+Handbrake could have been saved him.Looks great. All the best from another romanian Arch user and vdub fan :)I feel sorry for Windows users and at the same time i'm so glad i don't have to mess with such a shitty OS

@@ -1,0 +1,404 @@
+No problem. We wouldn't trust anything ourselves that claimed to be a security swiss army knife!Eh, sorry but Ireland doesn't have a rising wight-wing populist movement either!Of course there is no one-stop-shop for tools. We've just tried to make something that makes it a bit easier to have a lot of physical and digital security advice in the one place.Some fellow Reddit folks concerned about privacy and security issues might be interested in an open source Android App that we have built. 
+It's called Umbrella  App. It's free, open source, on Android and contains tons of lessons on privacy related issues like digital and physical security.  
+
+Umbrella has everything from how to do basic stuff like communicate with basic tools like Signal to sending a secure email with PGP. However, the unique bit is we also have stuff on the physical side, like how to plan travel, cross borders, set-up a secure physical meeting, deal with detecting surveillance, covering a protest, respond to a kidnapping etc. Basically we have tried to make it a bit of a one-stop-shop for security for regular people, activists, refugees and journalists. We also pull security feeds from places like the UN, Centres for Disease Control etc - which is obviously very important to folks in places like Syria or affected by Zika/Ebola.
+
+More information at https://www.secfirst.org
+
+Download from Google Play Store:
+https://play.google.com/store/apps/details?id=org.secfirst.umbrella
+
+From Amazon App Store:
+https://www.amazon.com/Security-First-Umbrella-made-easy/dp/B01AKN9M1Y
+
+F-Droid Repo:
+https://secfirst.org/fdroid/repo
+
+Github Repo:
+https://github.com/securityfirst
+
+Hope some folks here find it useful/interesting!Great list of articles!
+
+Some fellow Reddit folks concerned about privacy and security issues might be interested in an open source Android App that we have built. 
+It's called Umbrella  App. It's free, open source, on Android and contains tons of lessons on privacy related issues like digital and physical security.  
+
+Umbrella has everything from how to do basic stuff like communicate with basic tools like Signal to sending a secure email with PGP. However, the unique bit is we also have stuff on the physical side, like how to plan travel, cross borders, set-up a secure physical meeting, deal with detecting surveillance, covering a protest, respond to a kidnapping etc. Basically we have tried to put together a tool that makes it easier for regular people, activists, refugees and journalists to learn about security. We also pull security feeds from places like the UN, Centres for Disease Control etc - which is obviously very important to folks in places like Syria or affected by Zika/Ebola.
+
+More information at https://www.secfirst.org
+
+Download from Google Play Store:
+https://play.google.com/store/apps/details?id=org.secfirst.umbrella
+
+From Amazon App Store:
+https://www.amazon.com/Security-First-Umbrella-made-easy/dp/B01AKN9M1Y
+
+F-Droid Repo:
+https://secfirst.org/fdroid/repo
+
+Github Repo:
+https://github.com/securityfirst
+
+Hope some folks here find it useful/interesting!Hey everyone. Apologies for the blatant plug but seeing as we are talking about security Precautions for non-profits and journalists, it's probably relevant.
+
+We built a tool specifically to help non-profits and journalists learn about and manage their digital and physical security. It's called Umbrella  App. It's free, open source, on Android and contains tons of lessons on privacy related issues like digital and physical security.  Umbrella has everything from how to do basic stuff like communicate with basic tools like Signal to sending a secure email with PGP. However, the unique bit is we also have stuff on the physical side, like how to plan travel, cross borders, set-up a secure physical meeting, deal with detecting surveillance, covering a protest, respond to a kidnapping etc. Basically we have tried to make it a bit of a one-stop-shop for security for regular people, activists, refugees and journalists. We also pull security feeds from places like the UN, Centres for Disease Control etc - which is obviously very important to folks in places like Syria or affected by Zika/Ebola.
+
+There’s tons of really relevant stuff in it, especially for those now mobilising for the first time on some issues. Loads of people are writing guides that solve small parts of the puzzle but we have tried to provide the whole picture in the one place.
+
+Google Play Store:
+https://play.google.com/store/apps/details?id=org.secfirst.umbrella
+
+Amazon App Store:
+https://www.amazon.com/Security-First-Umbrella-made-easy/dp/B01AKN9M1Y
+
+F-Droid Repo:
+https://secfirst.org/fdroid/repo
+
+Github Repo:
+https://github.com/securityfirst
+
+Code Audit:
+https://secfirst.org/blog.html
+
+Hope some folks here find it useful/interesting!Can't remember what the problem was with integrating directly into the F-Droid store. This is the issue on Gitlab. Will find out.
+
+https://gitlab.com/fdroid/fdroiddata/issues/419Yes. We wanted to keep it simple but essentially only one person needs to have an eyeball. There could be more than one and it doesn't have to be a person either, could be a device. Not exactly, in some cases you want to identify surveillance in order to make a decision on your actions - e.g go to meet a source. Yes the team may know where you live and can come find you again but at least you reduce the harm to the people involved.Clothing is specific to the environment, location and operations of the surveillance team. Nothing in itself adds up to detection on it's own, it's just basic steps for to thinking about who to focus on more than others. Someone if there are two people, one looks like they are dressed to fit and deal with their local environment and the other looks like they are just running out to their car in a rainstorm - then you focus on the first person not the second one.It's important to remember that surveillance in both the media and activism scene in the UK has also meant significant physical surveillance. Meaning both surveillance of movement and also infiltration. We are writing a series of things about this (secure meetings with sources, covering protests, dealing with arrests etc) based on the content in Umbrella App.
+
+
+"How journalists and activists can identify and counter physical surveillance"
+
+https://medium.com/@roryireland/how-journalists-and-activists-can-identify-and-counter-physical-surveillance-1ad19b6a8981#.59jx5gdjoYes fully agree. The article is meant to be a basic primer. We will look at doing more advanced stuff on HUMINT issues like insider threats, penetration operations in future.Thanks, good question.
+
+One of the reasons was to make it easier to have the content on your phone in places where bandwidth is expensive and/or internet access intermittent.
+
+In terms of Github as a location for storing the content, we actually had that feedback a number of times, so are going to make both a desktop version and a web version. 
+
+Also, the first version of the app is mainly content but as we develop it more we will be looking to make the most of the unique features of a phone for tackling various security problems.Can confirm. Yes it does work at the various airports in London.Blatant plug but if you have Android our Irish team just launched Umbrella App. It's mainly built for activists and journalists in high risk countries but is (hopefully) useful for everyone. It has lessons and checklists on everything from how to send a secure email to how to use the various tools mentioned - and more. It's free and open source:
+
+https://play.google.com/store/apps/details?id=org.secfirst.umbrellaWhile it's arguable that Berlusconi was a sensible target...How does that justify spying on the United Nations High Commissioner for Refugees (UNHCR) in Afghanistan? Or from previous revelations, UNICEF - the children's agency?
+
+FWIW, I've just started laying out one aspect of this debate and how intelligence operation blowback can affect the perception of neutrality of NGOs working on the ground. This increasingly seems to lead to a rise in deaths of aid workers and many of the people they work to help. E.g Polio in Pakistan.
+
+https://medium.com/@roryireland/latest-wikileaks-documents-irish-citizen-working-for-the-un-was-targeted-by-the-nsa-f345b73b73df#.c4n9b18n1We have written the second part of our blog which may be of interest to people here:
+
+"Sean Penn and El Chapo: Operational Security Errors (Part 2) - travel, accommodation, counter-surveillance and meetings"
+
+https://medium.com/@roryireland/sean-penn-and-el-chapo-operational-security-errors-part-2-64b6289a2d50#.r5x25mcy3Yes, in a number of countries. I think for example, it still might be in ChinaThis might be useful
+
+https://securityinabox.org/en/guide/orbot/androidWe just posted a blog post about this:
+"Sean Penn and “El Chapo”: Operational Security Errors (Part 1)"
+
+https://medium.com/@roryireland/sean-penn-and-el-chapo-operational-security-errors-314a1847e3a0#.1o14kevftWe just published a blog post about "Sean Penn and El Chapo: Operational Security Errors (Part 1)"
+
+https://medium.com/@roryireland/sean-penn-and-el-chapo-operational-security-errors-314a1847e3a0#.qyahwyj35If your phone WIFI or bluetooth is turned on (but doesn't have to be connected to a specific WIFI)Thanks. I actually must have missed that in the report when I read it.The article is not about free WIFI services. It is about MAC address tracking.Interesting, can you direct to the source on the Wikileaks archive. I haven't been able to find it.Agreed but someone looking at you is not gathering (without your consent) information about what is a de facto personally identifiable piece of information (your device MAC address) that is used for practically everything in your day to day life. Let's expand the topic out a bit and look down the road. We can use an example of retail outlet XYZ, who wants to do analysis of customer traffic. 
+
+1. At it's shop location ABC it runs a footfall counter to figure out the pattern of how it's customers walk around the shop. The footfall counter has no privacy implications as it is not linking customers to a unique piece of identifiable information. It then runs the same process at a different store DEF and gets it's data, without the ability to compromise the privacy of it's customers.
+
+2. The shop decides to run a mobile tracking analytics technology. You enter shop ABC with your WIFI or Bluetooth turned on (but not connected to anything). It registers your MAC address and then follows you around the shop, watching where you stop and the aisles that you are looking at. You leave the shop. Two days later you go to shop DEF, it again registers the MAC address and this time you buy something using whatever the future equivalent of "Apple Pay" is. From this point forward the shop now has the potential to identify exactly who owns the phone and thus know who it is that is looking at it's products in any of it's shops. 
+
+
+Does a scenario like this seem far fetched? I highly recommend reading one of these article's to get a sense of where this is heading (bearing in mind that MAC address tracking is done without the consent of the person who's device is being tracked):
+
+"How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did"
+http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/
+
+"The Incredible Story Of How Target Exposed A Teen Girl's Pregnancy"
+http://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2?IR=TI think the difference is "if your connect to a wifi," ie: you have chosen and consented to connect to it. What's happening at Dublin airport is that the automated MAC address connections which occur when your WIFI is turned on (but you haven't connected to a WIFI service) are being used.Probably the simplest explanation is available here:
+
+http://smart-places.org/mobile-location-analytics-opt-out/about-mobile-location-analytics-technology/#howdoesHahaha. I actually had to look that reference up :)Yes I agree but this is a separate issue. The article is actually not talking about logging into public wifi, for the tracking to work you don't need to log into a wifi, you just need the wifi (or bluetooth) turned on.I think there is a few specific issues.
+
+-DAA passengers should be asked for their consent to have their devices tracked. At the very minimum there should be some location where a person using the airport can have the opportunity to see the policy in relation to this.
+
+-Globally, airports are extremely sensitive and common targets for information gathering. Remember that even people in the airport who are not passengers may also be caught up in the process of MAC address tracking. Who/How/Where/How long etc of where this data is stored is a sensitive subject.
+
+-I think there is a value in debating whether such tracking technologies should allowed in various spaces, considering the privacy implications that may occur. For example, if the use of such tech was extended on a wider basis across the country, would you really want retailers having the ability to (without informing you) recording that you where in a location at XYZ time?Hmm, should be switched off over the weekend. Let me double check that and come back to you.Hi,
+
+You shouldn't be seeing any cookies when visiting the page?
+
+I just ran a test to confirm
+http://www.cookie-checker.com/check-cookies.php?url=www.secfirst.org
+
+Can you tell me what your seeing?
+Thanks for the feedback! We wanted to avoid evoking the typical feelings related to security - fear, blue and red lights, worry, fire etc. Maybe we did that a little too much! :)Thanks!
+
+It's only the very first stage, we have a ton of useful features which we want to roll out over the next year, including secure (end to end) sharing of security information. So for example an NGO security manager could develop an evacuation plan or travel plan and send it to the people in his/her organisation.
+
+The business model is basically hybrid - non-profit funding to build the tool and give it away (for free, always) along with an open source business model down the line around white label versions, support, features etc. Also our organisation, Security First (www.secfirst.org), also raises revenue through added services such as training, consultancy, crisis management etc.
+
+Hope that answers your question! :)
+-RoryTry Umbrella - an app with all the information on how to deal with different physical and digital security problems (from sending a secure email to dealing with a kidnap), in one place. It also works offline. It's new, free. open source and works on all Android phones - including older, cheaper ones.
+
+https://play.google.com/store/apps/details?id=org.secfirst.umbrellaThanks! We would love your feedback :)Thanks, we are just getting started! Lots more to come :)Hey there, apologies, forgot to include i t- here is the link to our GitHub:
+https://github.com/securityfirst/Umbrella_androidHi there,
+
+Good question. We decided to do Android first (even though that is a little harder in some ways) because it is dominant - especially in the developing world. We really want to do iOS next year but first we will need to find a non-profit funder who will enable us to do it. Hi, apologies if it's misleading. If you are looking for secure, transparent communications. As the app recommends, Redphone (voice for Android), Signal (voice for iPhone) and TextSecure (writing text for Android) are highly recommended!I'm part of a community of people who are building an open source mobile app for physical security management for human rights defenders and journalists. We also do physical training for these people (www.secfirst.org - shameless plug! :)...
+
+What type of knowledge/training do you wish you (or other journalists) had before the need to use source protection methods with Snowden? What would you do differently? Where do you feel the current gaps are for journalists/human rights defenders?If you can keep your head when all about you   
+    Are losing theirs and blaming it on you,   
+If you can trust yourself when all men doubt you,
+    But make allowance for their doubting too;   
+If you can wait and not be tired by waiting,
+    Or being lied about, don’t deal in lies,
+Or being hated, don’t give way to hating,
+    And yet don’t look too good, nor talk too wise:
+
+If you can dream—and not make dreams your master;   
+    If you can think—and not make thoughts your aim;   
+If you can meet with Triumph and Disaster
+    And treat those two impostors just the same;   
+If you can bear to hear the truth you’ve spoken
+    Twisted by knaves to make a trap for fools,
+Or watch the things you gave your life to, broken,
+    And stoop and build ’em up with worn-out tools:
+
+If you can make one heap of all your winnings
+    And risk it on one turn of pitch-and-toss,
+And lose, and start again at your beginnings
+    And never breathe a word about your loss;
+If you can force your heart and nerve and sinew
+    To serve your turn long after they are gone,   
+And so hold on when there is nothing in you
+    Except the Will which says to them: ‘Hold on!’
+
+If you can talk with crowds and keep your virtue,   
+    Or walk with Kings—nor lose the common touch,
+If neither foes nor loving friends can hurt you,
+    If all men count with you, but none too much;
+If you can fill the unforgiving minute
+    With sixty seconds’ worth of distance run,   
+Yours is the Earth and everything that’s in it,   
+    And—which is more—you’ll be a Man, my son!
+
+If—
+BY RUDYARD KIPLINGTails running of a USB stick
+https://tails.boum.org/
+Hi Julian,
+
+Since the Manning leaks, there has been very very little content emerged from Wikileaks, especially in comparison to Cryptome and Public Intelligence. However, you guys are the most high profile people in this area. What has happened to the no doubt, hundreds of submissions you must have received by now?Really? Cool, I'm looking forward to it!Thanks, having looked through the suggestions, this is probably the coolest one in terms of bring environment friendly. I will drop them a mail and see what they say. 
+
+Yeh definitely, we are thinking a charity in Vegas probably or put them on Craigslist for free.Awesome, thanks everyone!John,
+
+Do you believe that the dangers for journalists have been increasing in the last few years and why? 
+
+(BTW we are helping to build free security tools for journalists at www.secfirst.org and always looking for new ideas, especially from someone like yourself with a lot of experience in the field.)
+
+Guns, Germs and Steel by Jared DiamondThanks!
+
+We are doing some work to smooth out the UX at the moment but will have stuff up on our report in the new few weeks!Thanks. My mistake.Good question!
+We have some early test versions at the moment but we are currently redesigning things to make the best use of the vast amount of content we have to deal with. We will be opening it up to a very small amount of limited testing within the next few weeks. Obviously we would not be opening it up to the public at large until many phases are gone through - code review, user feedback etc etc.I helped set it up. Drop me a mail at secfirstmd@gmail.com and I can help if you want.Thanks.
+
+Yep we know that project quite well. It's something that we have considered incorporating into our app also - as it is a quite popular feature with a lot of potential end users (especially journalists). The one problem though is that it is usage is somewhat limited in a number of environments, like the developing world at the moment - but as phone connections become better, it will be easier to use.Checkout the work of www.videreonline.orgCool, thanks. Any others?He will never be sent back by Russia. Even if he is/isn't a spy, doing so would make many real spies reluctant to deal with Russia.At first I was liable to think this is a possibility - I still would never competely rule it out. I have heard many people say this but if there was evidence of this (much like WMDs in Iraq) the best way to silence Snowden and others would have been for it to have been released.  If you speak with journos involved with the issue, all say that intelligence officials admit privately that he wasn't a Russian spy....Oh look, a flying pig...
+
+I really wish Snowden had not ended up in Russia. It's shocking that with the Guardian and Washington Post winning the Pulitzer this week - that the "Deep throats" of our generation are locked up (Chelsea Manning) or exhiled like Snowden.Apologies. Will do.Thanks - much appreciated! :)Some great answers on here.
+
+I would also add, NGO turf wars and not cooperating together - from areas ranging from operations to campaigns. In particular, the sharing (or not sharing) of security information in the field is a big problem and the repercussions can be fatal. People can often be killed because one NGO didn't like another NGO so didn't share warnings and other vital security information. It is something that we are trying to make easier to solve on a technology level by building an open source app for managing the security of aid workers, activists and journalists (www.secfirst.org - blatant plug :) though to be honest the changing of human nature is a lot harder problem to work on.
+
+I would also add that the lack of commercial nuance of many non-profits means that you very rarely see organisations taken over/merged etc. for various reasons (often ego and donor driven) - unfortunately then you can a lot of unnecessary replication of functions and organisations carrying on which no longer are dynamic or fulfilling their function correctly.That would be a great idea! I was already think of setting up a Hackernews type place for NGOs. I am not sure what interest there would be...If enough people on Reddit like the idea then I will do it in the next few days.Cools stuff,
+
+I did the same thing during college in 2008. I helped setup and was the Head of Security and Research for Videre (www.videreonline.org) a charity which specialises in the use of gathering video evidence of human rights abuses.
+
+Five years on I am now building a new project, an open source mobile app to help manage the needs of aid workers, activists and journalists (www.secfirst.org).
+
+I sympathise with people starting out non-profits in college, in some ways it's even harder than doing a for-profit startup. Fundraising is much more based on creating the right personal connections and it is quite a hard sector surprisingly to get the equivalent of grants or angel funding to get things off the ground.
+
+-RAbsolute madness.It will be a significant challenge to who ever stays behind. Speaking with some of the groups who work out there, it seems the general consensus is to wait and see. I know some organisations will try to reach out to the Taliban leadership and get permission to stay but I think the problem is that even if this is granted, this "protection" doesn't necessarily filter down to the ground level Taliban or more extreme foreign fighters.  I imagine when NATO leaves the Taliban will try and make a few high-profile attacks on aid workers very soon afterwards unfortunately.  If this happens, especially in the early phases, I think a lot of the aid agencies will have to leave.
+
+Over at Security First (www.secfirst.org) we are working with some organisations who are on the ground in many areas, including Afghanistan to do some security training and also build an open source mobile app to help them manage their security issues. I hope that we will be able to get it out and in the field in time to try to help some of the aid agencies on the ground - before what I think is unfortunately going to be a bloody quasi-civil war aftermath when NATO pulls out.
+Thanks to everyone who asked questions. Feel free to drop us a mail at 
+secfirstmd@gmail.com if you have more questionsThanks for the good karma! :)Hi,
+
+Thanks for your input, that's a very valid point. The example is just a snapshot of the first version which we are using for testing internally, but we are very much aware of the dangers of call pattern analysis, phone pairing, meta-data collection etc - in fact it was something we dealt with operationally a number of years before the Snowden revelations (from which we have also learned a lot).
+
+Before ANYTHING we do is launched to the public we will be undergoing a long-process of opening our content and code for public inspection, comments, criticisms, additions and subtractions - and we would love to get your input when we do that. If you are interested in being part of that drop me a mail on info@secfirst.org. If you feel more comfortable we will also be posting to Reddit and other places when we start this auditing process - so keep an eye out here also.
+
+Thanks! :)Thanks j-shoe! :)Name / URL: "Umbrella" App by Security First http://www.secfirst.org
+
+Elevator Pitch/Explainer Video:
+
+Human rights defenders are more at risk than ever. 2012 was one of the worst years for their harassment in recorded history. We are building "Umbrella," a open-source mobile application that provides all the information and tools needed for a human rights defender to operate safely. With step-by-step processes for every situation from sending a secure email to emergency evacuation – Umbrella will provide human rights defenders with a one-stop-shop for all the latest tools and know-how of how to operate securely as and when they need it.
+
+More details: What stage are you in? How many employees or founders?:
+
+Everybody is currently volunteering and developing a proof of concept version. 
+
+Are you looking for anything? (Feedback/Hiring/Investment):
+
+We are looking for feedback (on our site at first) and then testers in future. If people with Android development, UI/UX, encryption and other app related skills wish to contribute time then please drop us a mail at: info@secfirst.org. Ultimately we are also looking for philanthropic individuals or groups who can provide funding allow us to develop the project fully.
+
+Discount for /r/startup subscribers?:
+-Well it is going to be free and open-source so hopefully everyone will be able to benefit! :)Haha, great replies from everyone! 
+
+Mostly I am hoping to go have fun - I was just told by many in the Valley that there was a lot of stuff at BM which would be relevant.
+
+Thanks for the feedback,
+-SThis is such a pity. Aid workers (and also journalists / activists) seem to have become legitimate targets more and more over the last decade. I am part of a project over at www.secfirst.org to try and provide slightly easier solutions for many people in the field, particularly during the first few hours of disappearance - which is essentially the golden hour. I hope we can try to help prevent at least some of these attacks in future.It's a shame to see what has happened in Turkey. Especially as things were looking bright for a few years. The intimidation and arrest of journalists and NGOs is particularly worrying - and it is something we are developing a tool (www.secfirst.org) which we hope will help in some way to give such people a better chance at ensuring their own security. Unfortunately it is too late for many people and the current government is awful.Thanks to everyone who has been signing up. Some people have asked for more information.
+
+We are creating a unique mobile application that provides the user with the  information on what to do in any given security situation and the tools to do it. It will allow the  user to choose what they want to do, such as: conduct risk assessments; securely make a call/email;  securely  access  the  internet;  encrypt  data;  plan  secure travel; protect their office/home; plan counter -surveillance; measure insider threats; use a safe-house; or deal with kidnapping, arrest or evacuation. Once a situation is chosen the app will provide tools for planning, communication, responding and managing security threats.
+Apologies for that! We are creating a unique mobile application that provides the user with the  information on what to do in any given security situation and the tools to do it. It will allow the  user to choose what they want to do, such as: conduct risk assessments; securely make a call/email;  securely  access  the  internet;  encrypt  data;  plan  secure travel; protect their office/home; plan counter -surveillance; measure insider threats; use a safe-house; or deal with kidnapping, arrest or evacuation. Once a situation is chosen the app will provide tools for planning, communication, responding and managing security threats. We are building it so that the communications aspects of the app are avoiding overlap by using existing tools such as OrBot, chat-secure etc.
+
+I have tons more information but we are working on putting our full site up by next week. If anyone is interested in directly contacting me or contributing time, ideas or funding then feel free to drop a mail to info@secfirst.org
+
+Thanks everyone :)
+Interesting idea...
+
+I am currently setting up a non-profit to manage the security of human rights defenders (you can sign up for the early launch testing at www.secfirst.org) and I am happy to have a chat about some thoughts I might have on security for such a site.I think human rights security specific section might be useful?No problem, lots of stuff to think about here. I've done a lot of stuff involving film work so can offer a lot of advice. I want to make sure you are getting a comprehensive approach rather than just a few paragraphs so drop me a mail directly at secfirstmd@gmail.com and we can arrange to chat on Skype. When I get a chance I will also write up some basic stuff for the benefit of folks on Reddit.I think the security company "goldrushs" - Iraq, Afghanistan, East Africa Piracy, Libya etc has meant lots of people seeing the money (which is made at the start of such a problem) and throwing their hat into the ring (which ultimately reduces the money for such people considerably). As I mentioned above,  many of them are just doing whatever they can do shape their skills (from the military etc) into anything they can sell to a customer. This has led to lots and lots of poor quality and expensive advice, bad long-term security for the customer and a lot of wannabe steroid fuelled action heroes driving around wearing Oakleys. Ultimately these companies are often not suitable or capable of providing the advice needed to their clients - indeed many of them have virtually no experience in the area they are providing protective services for. For example, security companies providing "services and solutions" to NGOs when they have zero background in understanding the needs, realities and capabilities of these organisations. The same can be said of corporate security for example - many security companies think their role is to provide 7ft gorillas to protect/shield their client, while the better companies know that putting discreet people into an area before the client arrives is a far better way to provide advanced knowledge of a security threat.
+
+To pick probably the biggest single theme behind the failure of a lot of security companies. I would say, poor implementation practices. In many ways training is the easy part but implementation is the difficult bit. For example, it's relatively easy to show a client how to conduct various security practices, it's much harder to ensure these are actually happening on a day to day basis. Human nature is lazy and security is often perceived as a hindrance to peoples day to day lives. Good security companies thus have to really work hard on the psychological aspects of clients before anything else, in order to help ease the transition into them becoming more effective in their security arrangements. Though it seems like common-sense, if it's not done properly (and rarely is) then everything else that you try to train/build on top of this, can become undermined. Often, security companies and clients are tacitly happy to skip this part, as it's easier for the client to rely on the security company and it's much more lucrative for the company to provide daily services of a bodyguard for example - rather than try to find a long-term solution to the clients requirements. 
+
+One of the things we are trying to do at Security First (www.secfirst.org - blatant plug :) is automate as much of the processes as possible and design our mobile app by trying to work with human nature instead of against it.Hi, thanks for your comments.
+
+During my earlier work a few years ago, it was more common for me to be involved in doing things in the field. These days I'm generally spending more time training, planning and running other operations - as opposed to being directly in the field.
+
+As for your question about how to get involved. I think there are a few paths and it really depends on what you want to do. If it's security analysis, I would generally say get a qualification/degree or (the right type of) military/police/intel experience. There are many organisations, such as private military companies, banks, etc that are recruiting alot from the graduate level to fill security analysis posts. One of the best things you can have for these is languages - esp Arabic, Russian, Farsi, Madarin, Urdu, Pashtun etc. If you want to go into NGOs then I would say as early as possible, start volunteering and interning with organisations - this is pretty much the only direct route into the area. There are some good industry specific background qualifications (like the stuff at RedR) which are very good to have and quite reasonably priced.
+
+Firstly, open disclosure, I'm not an expert on Nigeria or West Africa - I have tended to work in other parts of Africa, the Middle East and Eastern Europe. So if you want specific travel related advice for that region then right now I'm not up to date on the daily micro-level of detail that a security person should know if they are advising you about travelling there.
+
+In general however, I feel that the Nigerian state has fallen (or been pushed by the West) into the classic counter-insurgency trap. Negotiations with Boko Haram and other political actors in the region seemed to be going well a few years ago but now it appears the pressure to find a military solution to the problem became overwhelming. It is now following the classic insurgency playbook we have seen everywhere:
+---> regional / territorial / religious dispute ---> breakdown of political process ---> militant voices take over ---> guerilla or terrorist attacks ---> targeted government faces pressure to "act" ---> government gets persuaded to conduct a military campaign --->  sends in troops to seal off and harass the militants ---> troops eventually irritate, corrupt, kill innocent locals ---> support for the insurgents by most mainstream people in the area increases ---> cycle of violence continues ---> years and many deaths eventually a painful political solution has to be found.
+
+Right now Nigeria is stuck at the "support for insurgents" phase. For people working or travelling in the Northern area it is highly dangerous and has many of the classic dangers - checkpoints, radical militants with a hatred of the West, unpredictable violence, corrupt soldiers, kidnapping etc. In particular, the kidnapping of Westerners for ransom is a problem. A cocktail of problems that if your thinking about travelling to the area, you should seek strong advice, training, have good planning in place before going and keep constantly updated with what is happening in the area.
+Thanks, glad to help! I look forward to your mail.I must be honest and say no I have not been involved in a hostage negotiation. It is a very specialised area with only a few good negotiators in the world and hundreds of cranks who try to pass themselves off as capable of doing this (you see this problem often in the security industry.). There are however a number of techniques for reducing your chances or becoming a hostage and/or chances of survival in a hostage situation, which I do teach from time to time.If you ask any security trainer, they will tell you it's impossible to completely remove paranoia from certain situations or people. However, methods are available and will be built into the app to reduce the chances that particular security issues are the result of paranoia. A quick example would be in counter-surveillance. Seeing someone repeatedly and assuming they are hostile might be paranoia or it  might not be. However, we recommend proven ways to filter out the chances that such a repeated encounter is by accident -in order to either reduce/eliminate the paranoia or verify that the person is likely to be a hostile actor.Ok question 4 first:
+I really can't stress this enough. If you read Daniel Kahneman's work you will see this happening time and time again. People are far to quick to focus on threats which have a relatively low probability of occurring (terrorism, kidnap, etc) and not enough time on the things which are highly likely to occur. When I was younger and read it in guidebooks and on travel risk websites I always used to skip over it but having worked in the field I now see why it's always the first thing that is mentioned. It should be written, told over again and actively enforced in your organisation (especially as corporate negligence becomes a criminal issue):
+
+-When travelling you are far far more likely to be killed in road accident than anything else, wear a seatbelt, plan your journey correctly (weather, roads, vehicle) and get a good driver. It's always hard to arrive tired from a long flight into a slightly dangerous country, grab the first local taxi, put your stuff in the back, then get in and realise there are no seatbelts. No one wants to get out at that point but it's all about the discipline of thinking about the numbers. Everyone who operates in the field has had or knows someone who has had a dangerous or fatal road traffic accident. People just seem to get stupid and do things abroad that they wouldn't do at home.
+
+-Same applies to vaccinations - it should be paid for, actively monitored and enforced within your organisation. Staff should not be allowed travel with them. 
+
+-Ditto anti-malarial drugs. Few people who travel in the field personally know people who have been kidnapped or threatened by terrorists, everyone has worked with people who have horror stories about getting hit by malaria. Often resulting in months off work and in hospital. All of which can be avoided by a £3 per day pill. Keep a stock and make sure your staff are following the directions to take them before they go. (The military has a smart method of telling people they will get charged if they don't do basic precautions like this. Companies can do similar - tell them if they don't they won't be covered by company insurance (probably true anyway) and will be docked pay for any time off work (it tends to focus the mind :) 
+
+-Good hygiene is vital. Drinking lots bottled water, avoiding street food, drinks with ice, be wary of vegetables that have been washed with local water. Always use hand sanitiser and sun cream.
+
+-Being careful while drinking alcohol abroad. It's kind of obvious but stupid alcohol induced decisions at home can have big repercussions abroad. Especially in areas of high random criminal and sexual violence.
+
+All the things above sound like advice an annoying mother gives to an a child and the repercussions of for example getting diarrhea or dysentery in the West are generally nothing more than a nuisance - but if your 36 hours by militia or weather filled road from the nearest hospital, such things can kill you.
+
+-------------------------------------------------
+
+Ok now onto the other stuff:
+
+-I tend to break dangers down into the following and each has a different method(s) for mitigating risk:
+
+--Random criminal based - as you get in Latin America
+
+--Random political violence - as you get in Iraq
+
+--Predictable political violence - as you get in Israel/Palestine
+
+--Known factors - disease, travel
+
+--Unknown factors - earthquakes, tsunamis
+
+
+-Inadequate preparation is probably the biggest problem. People really don't take the time to do even the most basic information collection on where they are going (something the Security First App is hoping to help make easier - blatant plug :). Each of the above factors (sorry for being brief but each is a lesson itself) has methods which proper planning can help you reduce the risk of occurring. So for example, "Predictable Political Violence" in place such as Israel/Palestine is relatively easy to protect yourself against, as incidents tend to happen in similar areas, often at similar times, often with similar warning signs etc. If you just show up to do some work in Hebron for example, you could find yourself caught up in something potentially dangerous, yet with even the most basic research and some updating when you arrive on the scene, your risk factor is pretty much reduced to negligible.
+
+-Not knowing when to trust instincts. This one sounds a bit obvious but having trained hundreds of human rights defenders and spoken a lot with those who have been threatened, injured, arrested etc because of their work, I have found during debriefings that in most cases they missed (or dismissed!) vital warning signs in the run up to the event. For example, many who were arrested have spoken about noticing signs of surveillance but dismissing it because they thought they were paranoid. Good training and knowledge is vital to ensure that the people are focusing on the thinks they need to and ignoring the other factors which seem important but are not. I always tell the people I train that the difference between being paranoid and not being paranoid is whether or not you have a reason to be paranoid. A insane person who thinks the authorities are following them for no reason is paranoid, however a business traveller about to complete a massive secret oil and gas M&A deal with powerful rivals, has a lot of reason to be paranoid about signs of surveillance etc.
+
+--------------------------------------------------------------------------------------------
+
+PICKING A TRAINING PROVIDER - Questions 2 and 3 together
+
+Picking and working with a security provider is a complex thing and I am happy to have a chat over email or skype to give you fuller detail but let me try to make some general points for the benefit of all Reddit folks who might be reading this.
+
+
+Pick a provider who knows your area very well. Do your research on what you need and who can do it properly.
+
+
+--Too many providers are basically private military companies who see business or NGO training as a cash cow which they want to milk as much as possible. Most I have spoken to, work by having contractors on their books who they hire on a day rate when they need to run a course, then they add up these costs, their own costs and then add a zero (seriously). 
+
+Try to find one which specialises in your area. So for example RedR is a charity and probably the best I've come across for aid worker training because it's staffed and developed by people from that background. 
+
+Don't be overly impressed by military/intelligence credentials.
+
+--This feeds in to another post I made above. I have a lot of respect for people's credentials but you have to remember, these guys left their organisations to make money and will try fit their skills in where ever they can. Too often if you don't have a background in this area it's possible for customers to overly defer to their views. So always say to yourself "Yes it's impressive you were diving team leader in the SAS, SEALS or whatever but I need someone who understands how to teach cyber-security protection to my executives when travelling, how does breaching doors make you qualified to train in this?"
+
+
+Make sure the course is exactly designed for your purposes.
+
+--Frankly, every time I have approached private military companies for security training they have tried to rip me off. Both in price and also by mistaking me for a clueless NGO person - so they try to stuff rubbish into the courses to maximise the billable time they can charge and also to stay within their comfort zone. Too many businesses and NGOs fall for this. For example, yes if you don't have experience in the military, it is interesting to do stuff about landmines etc., but if your business doesn't work in any countries where landmines are a threat, it's a waste of your time and money. You would be better off using the time for other things which are a threat, corporate espionage etc. One of the problems about sending people on a pre-arranged course (instead of one designed for you) is that though it is often cheaper, a lot of the content can be interesting but irrelevant.
+
+
+Get as many people as you can on the course
+
+Plainly the more people on the course the better. Anyone in the field or those responsible for them at the HQ should have the training at a minimum.
+
+
+Skills fade is very common. Think about how to ensure it is implemented afterwards (Hopefully our app will help with that when we launch - Plug! :)
+
+
+It might be cheaper and more effective to train someone to instructor level internally and then have them train your teams. Instead of constantly looking for people outside.  
+
+
+Designate a person who has it in their job description that security is part of what they do. Give them the authority to make security decisions, including the power to overrule if they believe a plan is too dangerous. Make sure you know and support them because they will make the wrong decisions sometimes, which can cost money and worse. That's life unfortunately. 
+
+
+Make sure to test and "red-team" your emergency plans with realistic as possible exercises. It should include everyone from CEO to PR, accounting, legal, family members etc - as if something big happens for real, they will all be needed at various points.
+
+
+Always have a debrief process from the training.
+
+There's obviously tons more I can say about this (and can answer your question about who to avoid etc) but drop me a mail on secfirstmd@gmail.com and I am happy to give more specific advice :)
+
+Your welcome, apologies if I went off the point a little - it's my inner "International Relations" college kid trying to break out :)Firstly, whistle blowers in general are absolutely vital to the running of a free and democratic society. They should be protected and encouraged, not deterred and harassed as many of them have been in the past few years.
+
+I think Snowden is a result of the post 9/11 world. The West let it's self become too fearful of the threat of terrorism and too easily lost sight of the values which made it successful. It somehow forgot the hard fought lessons of previous terrorist conflicts such as Northern Ireland. Ultimately this played into the hands of the terrorists. Whether it was Guantanamo Bay, mass spying or other disgraces, we (the public/politicians/media etc) allowed fear to justify anything. I think the movement to Iraq to fight a war of choice, when Afghanistan was not stabilised is also representative of this.
+
+For people in the security space, many of us have had our thoughts about NSA/GCHQ/Five eyes capabilities for a long time before this but were dismissed as paranoid. Now the public can see everything and has Edward Snowden to thank for this. I think someone like him was inevitable and ultimately the policy-makers only have themselves to blame. Laws and powers were granted too quickly and under a climate of fear of being called "soft" on terrorism etc. Too many politicians (and media) were afraid to ask the more difficult questions about where this would lead. I would also say that to some extent the lack of military or intelligence experience within high-level policy makers means often they defer to the people in uniform - whereas frankly people who have some military background tend to be able to be a bit more cynical. Inevitably in such a scenario the NSA and others would grab whatever powers they can get. Had there been better and real oversight (which a slightly larger public debate) of how these powers where being used then probably Snowden(s) would be less likely to happen. It's interesting to note that when GCHQ tried to legalise some of the activities it was undertaking, through the Communications Data Bill - it was widely disliked by the British public and shelved. Yet even though the various agencies and government departments saw this, they still continued to do what they were doing - in effect, sidestepping the democratic process. 
+
+A couple of other things
+-The "West" is generally very bad at human intelligence and this has been the case throughout the Cold War onwards, thus the PRISM, SIGINT etc is reflective of trying to utilise its strengths. SIGINT obviously has it's benefits but as we see in Afghanistan - it's not a lot of use against a number of the terrorist threats we face these days, only HUMINT can do this and that is a greater debate (with it's own set of messy compromises and ethics).
+
+-The outrage in the UK, US is particularly interesting - as people in this countries are relatively protected by law but the agencies are free to intrude into the personal life of anyone else in the world freely. For example, GCHQ has been hoovering up virtually all Irish phone-calls and internet traffic for decades.
+
+-The above paragraph has policy implications later on. For example, SIGINT can be used to launch HUMINT operations. Just imagine in 20 years time if you are in state outside of the five eyes and you come to political power with a policy against the US/UK's wishes. Well if you happen to have secrets you want to hide (homosexual in a Muslim country, an affair in a conservative country, did some drugs as a teenager) then they will most likely have considerable leverage over you. They can then "nod and wink," blackmail or leak this against you. This is the type of long-term effect that such intrusions can have.
+
+-Agencies shouldn't be allowed manipulate the numbers and the process. For example making the numbers look small by saying "We only submitted X number of requests for information from Y internet company" makes the public and policy-maker think that this means only X number of people where targetted. It now seems that a single request was often for ALL information from a company (Google etc) for months at a time. Similarly, for people who live in the five eyes countries, agencies should not be allowed to get around the legal protections here by sending the request to another agency to do the SIGINT collection. So if the GCHQ couldn't do it on it's own citizen for a legal reason, it would pass it to the NSA who would do it and send it back. I don't know why this is a surprise, as it was well documented in the 1980s that this was going on. Similarly, I'm surprised the US Congress hasn't made heads roll for the NSA giving unredacted access to Israeli intelligence of data on US citizens - Israel is always listed in the top five countries conducting espionage against the US, so it makes no sense, other than as a political incentive over Iran.
+
+-It's a pity Snowden went to Hong Kong and then Russia. I still don't get why he made this choice. Overall, I doubt he was a spy for either country but it's not impossible to believe. For things like this, you always have to ask the question "Who benefits?" Well at the start of the year everyone was talking about China's cyber-attacks - which look amateurish by comparison and no-one is talking at the moment about this. Still, I believe Snowden is a courageous whistle-blower and I don't see how him or Manning (esp Manning who exposed the "Collateral Murder" video) can be prosecuted in any public jury trial.
+
+-It's completely ridiculous that someone like Snowden or Manning had so much access. If he could do it for whistle-blowing purposes then who knows how many people have done it for espionage? Look at the Jeffrey Delisle case for example. I really doubt after him and the others that are probably still active that the Russians or Chinese learned much from the Snowden revelations
+
+-The releases by the Guardian, NYT and others have been in a mostly sensible way but having read the documents there is still a lot of stuff which I would say *possibly* it is not necessary to completely release in order to still have the debate. I think this is especially true for some releases recently. For example, it's possible to show the capability for mobile phone tracking without outlining exactly how it works - I was surprised that so much detail was given in those publications and in this case it would most definitely be of use to someone of nefarious purposes. At the end of the day, there still needs to be tools (but properly regulated ones) for fighting terrorism etc.
+
+-Most worryingly, just like the banking crisis, deep down we have yet to make the reforms which the public are calling for to stop this from happening again.
+
+-Ultimately it is the public who will need to change a bit on this and we may see positive effects in a few years from the Snowden case. At the end of the day, so much data was only able to be hoovered up because the people were happy to give it to Facebook, Google, Apple etc. I notice with younger people a slow but increasing concern with privacy. For example the rise of Snapchat (while not going to circumvent the NSA/GCHQ) is an example of people taking their data more seriously. Also, though they are as guilty as everyone else, it's interesting to note recently that Microsoft is running adds for it's Webmail which attack Gmail because of privacy reasons. It would be great to see companies actively competing over who is more private etc.
+
+-The revelations have been great for providing new energy into the circumvention world! Ideas and thoughts for increasing privacy are emerging daily and hopefully some of the biggest problems will find workable, easy to use solutions in the next few years (especially with mail, as PGP is still too hard for the average person to implement). Just look at the increase in TOR usage for example.
+
+-From the point of view of someone working on security for human rights defenders, my concern is that inevitably cyber-repression capabilities become commericalised and sold to whoever wants them. Many companies have been doing this for years and the West needs to clamp down on it (of course China or Russia will still sell it but it's morally wrong and we need to regain the moral high ground which we have lost in the past decade). Ultimately when HRD, journalists or political activists are harmed it is bad for us in the long run, as it undermines our strength which is soft power and we should not make it easier for regimes to repress, arrest, torture and murder such courageous people.It's an interesting thought. We have considered the transfer of encrypted files from phone to phone via Bluetooth or temporary wifi connection in the context of our app. We won't strictly be working on video based stuff (there are some good things in development by the Guardian Project and Witness etc at the moment in this area - and we have no wish to overlap with other projects unnecessarily) but the type of "mesh" network and the redundancy it provides is certainly an interesting possibility.Frankly, it was a long and as you can imagine, stressful time - so I don't dwell on it or remember exact dates. I went back to check for you though and it was the week of the 19th July 2006. You can read a bit more about it here:
+
+http://www.ynetnews.com/articles/0,7340,L-3278158,00.html
+
+or see pictures I took of the buildings a few days later here:
+
+http://imgur.com/a/FBmfY
+
+or I'm happy to talk to you more about it on Skype/via email if you wish
+Nablus, around the third week of July in 2006Haha. Unfortunately it can't change human nature but at least we can try to make security solutions a bit simpler and more of the work automated.It's an interesting question. Let me speak break these two questions down a bit.
+Features
+--------
+For every feature we include we have to spend a considerable amount of time thinking about what the negative consequences of it's use will be and then try to balance this with what the public interest or the interest of the human rights defenders is in using it. For nearly everything we are working on, we have spent years doing it in non-technological ways in the field and understand the positive and negatives effects it may have. So for example, planning secure operations, for years this has been done on paper or in PDFs but we are looking to make take this same traditional process and make it accessible on a mobile - so that if something does go wrong, then it is available instantly for the people at risk. We have looked at the features and "red-teamed" our project to consider could it be used for opposing causes and because of how it is specifically built for human rights defenders, activists, journalists and NGOs - our answer is no. Of course there are some features which have potential uses for the people we want to help but which we have decided are too risky if abused by what you term "opposing causes." An example off the top of my head would be facial recognition technology - in theory it could have a number of positive uses but we believe that these are outweighed by the negatives. Similarly we will be including features about countering surveillance but none about conducting surveillance - as we believe on balance that one is justified for human rights defenders under threat but the other is not.
+
+Other threats from opposing causes
+----------------------------------
+The most significant threats that we see from opposing causes are the ones experienced by many technology projects used by human rights defenders - great projects such as RedPhone, OpenPGP, TOR. Namely that the usage of or attacks on the technology itself (Advanced Persistent Threats, Man-in-the-Middle attacks etc) can be used by "opposing causes." This is a real and constant threat with too many elements to get into on one Reddit but these are some elements of our approach:
+
+-All technology can be broken, even if not directly, "rubberhose" decryption will always work. We thus have to build procedures and follow best practice in our technology to reduce the effects of this happening - distress passwords, strong encryption, minimal information etc
+
+-The technology should be transparent and open source - to allow other people to verify it, break it, hack it and contribute their ideas to make it a stronger tool.
+
+-We believe that being transparent about risks to the users is vital. Ultimately though, we see the advantages for most people, outweighed by the risks. Should that balance shift (as it has done for SilentCircle Mail, Lavabit etc) then we would have to be honest and always do the right thing.
+
+Advanced Security Question:
+----------------------------
+I think this is a valid question but ultimately it comes down to trade-offs. Many skills exist which can be used for good or bad. Everything from TOR to satellites and the roads. We believe that journalism and peaceful political activism is ultimately a good thing for the world (though not for authoritarian governments). It seems that right now, the balance of tools and methodologies is in the hands of those who wish to stop such activities (for example, the technology and skills to suppress such activities can be bought on the open market). Last year was one of the worse years on record for killings and arrests of human rights defenders, activists and journalists - suggesting a need to try to correct this balance. We hope that our tool can help reduce these numbers.
+http://uk.linkedin.com/pub/rory-byrne/0/72b/95a/It's strange really, I never thought it was an area I would go into. Through school I was always aiming more towards becoming a military officer. I remember being quite political from a very early age because I was Irish and grew up in the UK, so IRA Terrorism and the war in Northern Ireland made me think a lot about the complexity of such conflicts - and of course the victims who get caught up in it. Also, as a young teen I was deeply affected by trips to see the concentration camps in Germany. I related a lot to the Israeli Journalist, Amira Hass, who describes her mother being taken away by train to Bergen-Belsen and seeing German women at the railways stations just staring and doing nothing. They left me feeling that merely ignoring human rights abuses wasn't something that I felt I could do. 
+
+I guess it was sometime during university that I started to join more of the various human rights grouping and begin volunteering to do projects overseas (interning these days is probably the only way to get into NGO work). Interestingly though, I think having been someone open to how the military, intelligence, police, business organisations conduct their security has been a useful trait. Often there is a lot of good and bad things that human rights defenders can learn from them for their own security. Probably working in a refugee camp in the West Bank during 2006. The war had started in Lebanon and the whole area was very tense. An Israeli soldier had been killed nearby and for three days a siege was underway on a Palestinian local authority building, police station and prison about 150 yards away. 
+
+One night in particular we were staying in a boys kindergarten school and couldn't leave the building as anyone seen outside on the road was more than likely going to be shot. I remember watching F16's doing bombing runs at night onto to the complex about 150 yards away - which in the military would be considered "danger close". We would watch the aircraft come in, then once you saw the flares being emitted from it and the aircraft pull up, you knew the bombs had been released and just had to hope that they didn't miss (you heart was in your mouth until you heard the explosion). We had taken shelter behind thick walls but it wasn't much comfort and would have been little use if the bombs had missed.
+
+On another day, raiding parties of Israeli soldiers would come into the city in APCs at night. Using live fire on anything which moved and shooting out street lights as they went. I remember seeing and hearing rounds going into the roof over our school. Some colleagues in another school had the windows blown out. 
+
+Strangely when the siege was over, it was mix of emotions but the sense of relief and being alive that day was particularly strong.
+
+Thanks to all who have taken our survey - still open for the next few days so please share with your networks.

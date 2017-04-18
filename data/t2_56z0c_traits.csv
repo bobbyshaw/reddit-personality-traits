@@ -1,0 +1,47 @@
+personality,Openness,Adventurousness,0.32012758424089
+personality,Openness,"Artistic interests",0.078678836810148
+personality,Openness,Emotionality,0.17406003676935
+personality,Openness,Imagination,0.43261033573893
+personality,Openness,Intellect,0.82531354351146
+personality,Openness,Authority-challenging,0.80356933273243
+personality,Conscientiousness,"Achievement striving",0.28521738393551
+personality,Conscientiousness,Cautiousness,0.36782517114289
+personality,Conscientiousness,Dutifulness,0.21893850348328
+personality,Conscientiousness,Orderliness,0.035575342343873
+personality,Conscientiousness,Self-discipline,0.072705286299094
+personality,Conscientiousness,Self-efficacy,0.31490468401287
+personality,Extraversion,"Activity level",0.41718011926791
+personality,Extraversion,Assertiveness,0.79939073815753
+personality,Extraversion,Cheerfulness,0.0091031221478634
+personality,Extraversion,Excitement-seeking,0.12563350701178
+personality,Extraversion,Outgoing,0.085300741972717
+personality,Extraversion,Gregariousness,0.15519691958618
+personality,Agreeableness,Altruism,0.26794446831746
+personality,Agreeableness,Cooperation,0.18764471837227
+personality,Agreeableness,Modesty,0.071852714366982
+personality,Agreeableness,Uncompromising,0.17381614706971
+personality,Agreeableness,Sympathy,0.18692714459757
+personality,Agreeableness,Trust,0.27498148035609
+personality,"Emotional range",Fiery,0.85166855127199
+personality,"Emotional range","Prone to worry",0.67825375990559
+personality,"Emotional range",Melancholy,0.87158953521445
+personality,"Emotional range",Immoderation,0.6199025353031
+personality,"Emotional range",Self-consciousness,0.83519869017575
+personality,"Emotional range","Susceptible to stress",0.71176579262447
+needs,Challenge,0.68311343049202
+needs,Closeness,0.098280651635647
+needs,Curiosity,0.85417894287098
+needs,Excitement,0.41972535839514
+needs,Harmony,0.07539530313994
+needs,Ideal,0.67989333088616
+needs,Liberty,0.61497106540695
+needs,Love,0.39680510280584
+needs,Practicality,0.73813669819884
+needs,Self-expression,0.3447630989442
+needs,Stability,0.32125276915164
+needs,Structure,0.71466253005083
+values,Conservation,0.01451274329106
+values,"Openness to change",0.79775921511777
+values,Hedonism,0.31563915040135
+values,Self-enhancement,0.6820376096823
+values,Self-transcendence,0.48462228574061

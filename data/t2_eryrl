@@ -1,0 +1,356 @@
+>That's why every serious answer in this thread mentions regular updates...
+
+That doesn't magically mean majority of users can not be hacked by exploiting existing vulnerabilities.
+
+>That's totally unrelated to this thread.
+
+It's not. It's just the way the exploit orchestrator works. E.g. FoxAcid determines browser exploit based on version. When it can determine least important exploit to compromise any user, scalability becomes a non-issue.
+
+>That is one instance of one company whose managers were dumb enough to consider installing malware on customers' computers. 
+
+It went a bit further than consideration.
+
+>Assuming that Microsoft does the same is extrapolating.
+
+They don't have to.
+
+>Changes nothing to my point. When you use Windows, you accept the EULA and every data collection mentioned within them. The fact that you as a consumer don't like the alternative doesn't make this agreement invalid. This is still something you have agreed to and is therefore by definition not spyware. So, privacy, not security.
+
+The fact is that majority of users have no idea that it's even possible to waive off their fundamental human right to privacy. Would they know the extent of collection, they'd be much more outraged. Everyone knows the biggest lie on the internet is claiming to have read the ToS. People can't read it, don't have the time, and they don't assume anything bad can happen because they think it's just company's legal stuff that states their copyright to product and promises to not hand information to third parties.
+
+>Without proper sources it's just another conspiracy theory, please at least link to something.
+
+https://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/
+
+>It's the problem you have decided to focus on, but it's not at all OP's problem. He asked to secure his system ; you're telling him how to make it more private, which is not nearly the same thing.
+
+You can see the general consensus on the matter by reading the topic. Practically everyone here agrees Linux is the way to go.
+
+>The 0day debate is pointless because it's just speculation, you and I have no idea of how Microsoft collaborates with the NSA. You decided that you knew it, fine, but again without evidence it's useless to continue discussing it.
+
+We know Microsoft is a PRISM partner. Also, I provided proof for early access for vulnerabilities.
+
+>All mainstream Linux distributions let all programs do anything the user can, which is a disaster waiting to happen when every program including the browser looks like emmental security-wise.
+
+Majority of Windows users click yes on any unsigned binary UAC warns them about. The installer can then run as admin and do whatever it wants. 
+
+>Again, speculation. Nothing indicates that Windows 10 in Basic privacy mode does this, except the FUD you typically find on forums like this one. It's totally legitimate not to trust MS on that, but making people believe that it's a proven fact is misleading and plain wrong.
+
+"[When your Diagnostic and usage data setting (Settings > Privacy > Feedback & diagnostics) is set to Full, your inking and typing input data is sent to Microsoft, and we use this data in the aggregate to improve the inking and typing platform for all users.](https://privacy.microsoft.com/en-us/windows-10-speech-inking-typing-and-privacy-faq)"
+
+If you care to look at the extent of [PRISM program collection](https://nsa.gov1.info/dni/prism-slides/PRISM-collection-details.jpg), there's no doubt in my mind Microsoft, that was the first company to join PRISM, provides also key strokes from their servers.
+
+I noticed you very carefully used the phrase it doesn't collect data "in Basic privacy mode". The fact is the diagnostic and usage collection setting is set to Full by default -- it needs to be set to "Basic" manually. So don't claim it isn't a key logger, and don't you dare claim it's somehow ok if users have to manually disable it.>You're mixing everything up. The NSA isn't going to target you with 0days. That's a concern for big targets like governments and big companies. 
+
+You don't need to exploit every system with 0-day. Majority of systems run some piece of unpatched software. Other forms of mass surveillance can filter interesting subset of people whose devices are compromised. If every dissident, journalist, whistleblower and activist is hacked, there's no distinction to mass surveillance.
+
+https://twitter.com/e3i5/status/609313751918116865
+
+Snooper's charter allows GCHQ to hack entire cities. How is that not mass surveillance? NSA plans to automate their malware as well: https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/
+
+>Mass surveillance from companies and govt agencies never use malware, they collect data through legitimate products you use.
+
+Never? What about Sony rootkit that was spread on 22 million CDs?
+
+>Protecting oneself from Microsoft's terms of service isn't the goal of this post.
+
+When the ToS is the same business model that classic spyware uses, it is.
+
+>Microsoft's data collection is something you have agreed to when you accepted the EULA, and it's not "malware" no matter how unethical you think it is. Nobody forces you to use MS's products.
+
+Bullshit. When Microsoft deliberately makes deals with cities and nations to install it on every system for education, students are vendor locked to that platform based solely on their skill. I know Linux is trivial to install and use, but that's not the general consensus. Linux is inherently cmd-line based if not for use, for any kind of problem solving.
+
+>That's why all the "use Linux" comments are stupid. Windows 10 has made great progress in security, and I wouldn't be surprised if it were actually more secure than Linux for regular users. 
+
+We know for a fact Microsoft hands out zero-days for NSA to use before they patch them. If it's going to get patched in two weeks anyway, why not burn it by compromising as many computers as possible?
+
+>Every UWP app (including Edge) is sandboxed, Chrome is sandboxed too, the system uses dozens of mitigations techniques.
+
+That doesn't matter when the tools are not trustworthy to begin with. Edge and Chrome both have same business model. Surveillance capitalism is the problem.
+
+>Compared to hobbyist Linux distros where every program still runs with full user privileges and the default browser (Firefox) still has no per-tab sandbox ten years after Chrome implemented it, it's a huge step forward.
+
+The only distro that runs as root by default is Kali and that is sure as fuck not a hobbyist distro.
+Just because some default programs are shitty (I agree) doesn't mean you can't install better ones. Chromium should be free and implement same security features as Chrome.
+
+>Now if you value protection against corporate interests more than security against russian malware (which is legitimate), or if you're willing to spend a lot of time hardening a Linux install, you can abandon Windows for a free OS
+
+Free OS. Free for freedom. Both are legitimate threats. Neither OS will protect you from hackers by default, but only one of them comes preinstalled with keylogger.By abandoning Windows as a platform you're part of the movement that makes it more feasible for companies to start offering games on Linux. Steam is already taking ground. If you absolutely need to run proprietary applications or games on Windows (I sometimes do), have a dedicated installation of Windows on a separate partition / HDD / computer. Full disk encryption on Linux partition can protect your files on Linux from malware that could infect Windows (excluding ransomware that can just re-encrypt data). Use Linux for everyday browsing, work etc.No I'm not comparing different programs for full disk encryption. What I'm saying is, Bitlocker/Veracrypt only protect against adversaries in following situation: (1) They can only strike once physically, (2) they want access to your data and (3) your devices are powered off. All three need to hold true for FDE to protect you.
+
+The issue is, government agencies are not compromising full disk encrypted systems by invading peoples' homes. They are compromising the systems by hacking them remotely while the computer is powered on. Full-disk-encryption is designed to happen transparently so you don't notice it, and neither does the attacker. Your system won't be able to tell what read operation of files comes from trusted programs and what from malware, so your system will happily decrypt anything for the attacker's program, that then transmits it to network.How is the next generation of mass surveillance with malware that steals your private data directly not a threat to privacy?Bitlocker does not protect from the real threat: remote hacking and malware. All this and you're still stuck with a company that now has the exact same business model as Facebook (your data), is a PRISM partner, and that [handles zero-days to NSA](https://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/). GNU/Linux is the only real option left.Signal has done excellent job managing multiple clients. It's not limited by technology, only developer skills.Right. https://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/Off-band verification isn't the issue here.
+
+The issue is even with federated systems where anyone can run server like murmur, you want clients to be able to form separate end-to-end encrypted group conversations, starting from two; You want to be sure the friend running the server isn't eavesdropping on channels where users think no-one else is listening.
+
+The problem is entirely in bad TS client design.OTR is end-to-end encrypted protocol for instant messages. For VoIP you want SRTP with ZRTP key exchange. Signal, Jitsi and WhatsApp provide end-to-end encrypted calls. IIRC Jitsi is the only one to have group calls.Wtf is full encryption? Teamspeak uses TLS so unless you can trust the server (it times belongs to an unknown third party) and have trustworthy channel to verify it's fingerprint (how many hosts have interest to read fingerprints for every user?), the encryption isn't comparable to E2EE in any way.
+
+Edit: added the stuff in parenthesis.I wonder if maintaining the service counts as improved experience.Hilarious, considering Wikileaks was formed out of Assange's hate against the intelligence community;  US gov pulled Assange's funding on his graduate work on steganographic file system, and classified his life's work for wrong reasons. This blanket overclassification prevented releasing technology that could have saved lives of many dissidents, journalists, activists and whistleblowers world wide who were jailed/executed for something found on their hard drive.No. Because the hole size of front panel's mesh is designed to block the 2.45Ghz microwaves. Phones support varying frequencies from 5GHz wifi to GSM between 380MHz and 1900MHz, 3G between 700MHz and 3.5GHz, and LTE between 450MHz and 5.2GHz.
+
+Finally, recording doesn't have to upload in real time. Test if phone's sound recorder program is able to hear conversations through the door. I'm quite sure it can.You can't verify mic is off. Since you can't remove the battery, there's no way to ensure it doesn't record it's surroundings. Leave them in another room, and if you're kind, provide video monitoring so everyone can see nobody's touching their phones in the other room.>Open source projects with proprietary licenses is still a hell of a lot safer for the consumer than closed source code. 
+
+That's usually called "source available" where user can audit and compile but not modify code. Yes, it is more secure than proprietary but that's not what this discussion is about.
+
+Open source without copyleft allows closed source forks. That's the real issue.
+
+>I do agree that free and open source software is the only way to *absolutely* protect the consumer though.
+
+There's enough work in maintaining secure code. Non-copyleft libraries that enable ecosystems where users must rely on blind faith are as dangerous as releasing proprietary software. This is not because all companies are evil, but because all governments desire power.
+
+It would appear FISA court orders (think NSL on steroids) can compel US based companies to insert backdoors and gag them from telling about it. This is how Yahoo was forced to become a PRISM partner and offer access to data on server.   Crypto libraries that are critical to security are often released under permissive licences, so they end up in proprietary software. This isn't bad in itself, but providing proprietary code to users takes away their possibility to audit code for backdoors inserted by developer, someone who compromised developer's source/compiler or (TLS) MITM attacker between distributor and user.No you don't. Permissive software can be converted to proprietary by anyone. You need a copyleft licence to enforce distributor's obligation to share source with copies. This is THE difference people constantly argue about. Do the developer's/distributors have the right to take existing open source code and fuck over users downstream? MIT = Yes. GPL = No.This is exactly what I meant. Take libsodium for example. The developers did fantastic job with the crypto library, but by not choosing a copyleft license, their library was used by Threema, a proprietary messaging application, a tool the source of which nobody can inspect and therefore trust because nobody can tell when someone compromises it. Yet the program rides with the fame of NaCl.
+>* This is why you see people fight for open source code so fucking hard, it benefits the people.
+
+No, open source isn't about benefit of the people. Open source does not force developers to repect the rights of the users because it doesn't force them to share the source. You want Free software because where as Open source is "freedom to fuck over users at any point", Free software forces anyone who shares the code or edited versions of the code to also share the code.
+4096-bit RSA might have 256-bit security against digital electronic super computers, but against quantum computers, the bit strength is not like AES (that has 128 bits if security against Grover's algorthm). RSA 4096 breaks instantly with 8200 qubit quantum computer running Shor's algorithm.The program has been rewritten in Python 3.6/3.5. Code quality is significantly better, comes with PEP8 type annotations for mypy type checker. Travis CI and unittest coverage report have been added. 
+
+Password protection relies on Argon2i and key generation utilizes GETRANDOM syscall.
+
+Signal style base 10 fingerprints that use X25519 shared secret as salt: this makes correlation between fingerprints and public keys computationally infeasible.
+
+New data diode design increases speeds from 19200 to 1M bauds. Reed-Solomon now notifies about made corrections so user knows if hardware might have issues.
+
+Hash ratchet now distributes trust between SHA3-256, blake2s and SHA256.
+
+Files can now be exported and imported between devices.
+
+New file transmission window users can observe incoming fiöe transmissions
+
+Databases pad fields and entries to alö metadata about entries in the database (maximum size can not be hidden).
+
+New one-liner authenticates install script by using the PGP fingerprint as root of trust.
+
+These are just the hilights. Update log can be found [here](https://github.com/maqp/tfc/wiki/Update-Log).Quoting Jacob Appelbaum 
+
+>Targeted attacks [=hacking], because they're automated, are not different in scale but just different in methodology">No expert here, but doesn't the E2EE mean the client's private key never leaves their device?
+
+That doesn't mean clients private keys can't be stolen with malware.
+
+>And once a client verifies the address of their counterpart, MITM would be detected.
+
+Like I said, some clients do not feature public key fingerprints so you can't be sure who the public key belongs to. Clients that do feature fingerprint verification assume adversary is not in control of the identity key and any symmetric keys that represent thr dtstr of crypto system (in the case of Signal and Wire, this means root, chain and message keys).
+
+That means they are fair game to attacks where the server is remotely hacked and the TLS private key is stolen. This enables transparent MITM attacks unless clients can detect MITM's public keys and prevent compromise of their private keys.Also, the service provider that chooses to go proprietary screws over their users, because when they are made e.g. PRISM partners, they will be under gag order. Unlike NSLs, FISA court orders override canary warrants.This. Plus the fact you can verify public  key fingerprints to check server (or TLS MITM attacker) has not sent you wrong public keys to MITM the end-to-end encryption. This may feel obvious but iMessage actually uses proprietary key management without fingerprints so you have no choice but to trust Apple.>Serious question, how do you expect targeted (high profile) surveillance to work? 
+
+Targeted attacks are something you can not automate and thus scale.
+Snowden leaks have discussed Close Access Operations. Then there's TEMPEST monitoring and generic HUMINT. Finally, there's interdiction where hardware is implanted during shipping.
+
+>Anything defeats full-disk encryption and end-to-end encrypted messaging if you own the host.
+
+True, but we can build systems that are harder to compromise.
+
+>Of course every targeted surveillance method scales to mass surveillance if you apply it on a mass scale. 
+
+Well obviously. But the question is how do the costs increase as you scale. The difference between targeted surveilllance and mass surveillance is two lines of code.
+
+    if packet.ip in list_of_targets:
+        autopwn(packet.ip)
+
+and
+
+    for ip in IPV4_ADDRESS_RANGE:
+        autopwn(ip)
+
+
+>I'm not a fan of surveillance/the CIA by any means, but this is pretty much exactly what I'd expect in terms of targeted digital surveillance.
+
+So now it's again targeted surveillance? 
+
+>As far as I can tell from quickly looking at the docs, Grasshopper is a tool to gain persistence onto a machine without being detected.
+
+So a risk free method to access a single computer.
+
+>It's not some magic 'pwn every box you want' tool, it's the tool you use to keep access/deploy implants once you've initially gained access.
+
+
+Just because we don't know the codename of the program that deploys the exploit, doesn't mean they don't have one (what's the point of creating undetectable payloads if there's no system for exploitation) and that it can not be trivially scaled. We know NSA has Quantum+FoxAcid system, and VALIDATOR and GENIE programs are about automating exploitation.
+
+>If we're talking about scaling to mass surveillance, you still need a method of initially obtaining access on that scale. 
+
+How many different operating systems are there? Let's say 10.
+
+How many zero days you need? 10.
+
+How much does buying them and developing exploit cost? Let's say ten million dollars a piece. So hundred million dollars.
+
+What is the annual budget of the CIA? $15,000,000,000.
+
+Would program like this be insanely cheap and be built as joint effort by FBI, NSA TAO and Cyber Command that all like to exploit systems? Nooo that would be stupid.
+
+                  Yes https://github.com/WhisperSystems/Signal-Server 
+
+Also it wouldn't matter security wise even if it wasn't.Go with [PD-R550](http://www.performancebike.com/images/performance/products/product-hi/50-1318-BLK-ANGLE.jpg?resize=500px:500px&output-quality=85) instead. The plastic spacer in the center is not the easiest spare part you can find. Once dirty cleat wears it out, even new cleats wobble. The PD-R550 of my SO has identical internals when compared to my ultegra PD-6700 (excluding thickness of one single nut) so you'll have to pay a lot more to get better bearing design.  >Grasshopper allows tools to be installed using a variety of persistence mechanisms and modified using a variety of extensions (like encryption). The requirement list of the Automated Implant Branch (AIB) for Grasshopper puts special attention on PSP avoidance, so that any Personal Security Products like "MS Security Essentials", "Rising", "Symantec Endpoint" or "Kaspersky IS" on target machines do not detect Grasshopper elements.
+
+So automated exploits that are persistent and designed to avoid all commercial anti viruses. Does anyone still want to claim this doesn't scale to mass surveillance of end points that among other things, defeats full-disk encryption and current generation of end-to-end encrypted messaging?Syria's main exports are crude oil, minerals, petroleum products, fruits and vegetables, cotton fiber, clothing, meat and live animals and wheat. -Wikipedia. Too bad US has never gone to war for any of those.http://m.washingtontimes.com/news/2015/oct/15/90-of-people-killed-by-us-drone-strikes-in-afghani/>If HWRNG is feeding into the /dev/random pool like a lot of them are designed to do then /dev/random is practically acting as a whitener for the HWRNG.
+
+Whiteners are really useful but more over, they need to act as compressors: output of HWRNG entropy is rarely 8 bits per byte, so if it's 4 bit per byte, you want to double the input. If compressor is SHA256 and you feed it 256-bit string with 40-bits of entropy, output will not have 256 bits of entropy. So the question is, is kernels entropy collector's estimator accurate: when the entropy_avail counter rises, were all inputs for it as random as eight perfect coin tosses?
+
+>it's practically a bit better than using only some HWRNG you bought commercially, because how can you audit that hardware?
+
+I agree. But you can build your own HWRNG too.   ISP is not the problem. Governments are. And VPN provides absolutely zero protection against end-to-end correlation by e.g. NSA mass surveillance.The existence of Tor hidden services with shitty stuff just proves they're hard to take down. The shit will exist always. Stop poisoning the well. Also, I can watch youtube 720p over Tor without a problem. If you care to look at the graphs, you'll notice Tor's bandwidth exceeds it's use.Tor.So fuck Free and Open Source Software like Tor? ECHELON, a surveilance equipment WAN was established in the 70s. Unless HWRNG is being used, I'm not sure the entropy source for kernel is (indistinguishable from) Bernoulli process and thus suitable for OTP generation.
+
+(Using /dev/urandom as source for OTP would just equal pre-sharing ChaCha20 keystream. While it's not information theoretically secure, no quantum computer will ever break it because there's no weak discrete log based key exchange algorithm.)Yet somehow Assange and Greenwald are still alive and in possession of insane dumps of classified information and their systems have not been replaced with drones. The writer of the article attempts argument ad ridiculum over recent revelations and claims that surveillance state isn't an existing threat. The world doesn't work in the way that depending on political winds, anyone of the opposition is the target of mossad. We are in fact being watched, and we can fight it with technology. >I beg to disagree. The automated broadcast of somebody joining the service should be opt-in, and should be clearly advertised.
+
+Then how would your buddies know they don't have to send you unencrypted messaged any more? Why is it more private these people don't know you can be contacted over encrypted channel? 
+
+>It reminds me not a little about LinkedIn's creepy "contact discovery" feature that seemed to only exist for information harvesting.
+
+Signal doesn't harvest anyone's information. You should assume they collect the metadata they technically can (i.e. what server can access). The rest can be checked by reviewing the client source.
+
+>Facebook profiles users' contacts *even if they aren't on Facebook*.
+
+Signal has no business model outside grants and donations and maybe consulting fees for protocol implementation to WA/FB/Allo clients.
+
+>OP is right, in my opinion, to mistrust apps that proclaim to protect users' privacy while belting out their presence on signup. 
+
+If you think someone shouldn't be trusted with the information you use a popular app, why would you have them on your contact list in the first place? WhatsApp uses same encryption. At worst using Signal sends a message that "I value Free software", and that's not something average people care about. Also, I've had nothing but positive interaction with people when either of us notices the other one cares about privacy by design.  Dropbox is a PRISM partner and it tracks your metadata.Unix-like operating systems like OpenBSD and GNU/Linux that emphasize human rights of users over proprietary control of the product (Windows/OSX).Well, ECHELON was revealed 27 years ago by Margaret Hamilton.Make sure you manage the passwords for encrypted containers you upload to cloud with offline password manager (keepass2) that allows you to create random 256-bit keys to use as passwords. Buy a couple of thumb drives you can backup the keepass password database file. Use strong master password for keepass, and if you write that password down, keep it in a separate place.>"And then it spams all of your contacts who have Signal installed, without asking your first."
+
+That's literally the point of contact discovery. Every contact who has notified Signal server that they use Signal get notification when their EXISTING contacts on their address book have Signal installed.
+
+>"And it shares your phone number with everyone in your contacts who has Signal installed."
+
+That's no the case. It doesn't send unencrypted SMSs to contacts who do not have Signal.
+
+> This is the point when I learned that (however you want to spin it) they had been notified that I joined this network. 
+
+The alternative is that you ask everyone you'd like to have privacy with by e.g. manually sending them an unencrypted SMS: "hey, have you installed Signal?".
+
+>To be clear: when an app says "we don't share your contacts with anyone"
+
+That literally means "we don't sell your contact list to advertisers, or send any subset of phone numbers on your device to the contacts on your contact list". 
+
+>people from your contacts start messaging you because they got a notification -- it's pretty reasonable to assume that something fishy is going on. 
+
+No it really isn't. OP must be thinking that each phone receives some sort of "Hey phone on contact list, here's a list of phone numbers on this device. If you're one of them, please show the user a notification that I've installed Signal". This is ridiculous.
+
+>I installed this app because I wanted to communicate with one or two particular people. I did not want to wave a big flag saying HEY EVERYBODY HERE I AM.
+
+There's nothing wrong about installing Signal. The more contacts you have using Signal, the less obvious it is you desire privacy with the two particular people.
+
+>This kind of behavior reeks of the sort of spammy boosterism that is endemic on every social network these days
+
+How dare they make convenience centered messaging tool more convenient. Signal isn't designed to defeat metadata.
+
+>Get the users, invite invite invite, work that network effect, user experience comes second. 
+
+This is exactly about huge boost in user experience at a slight drawback on privacy
+
+> One of those people who sent me a "hello" message said, "Hey, I seem to have your phone number now, and I'm pretty sure I didn't have it before."
+
+They were confused. Signal doesn't magically know who your contacts are, and it would be the dream of spammers if they could add anyone's phone number and just send messages. Contact needs to have you on their contact list first. All of these people listed are wrong.
+
+> Then I deleted my account and deleted the app. I asked a friend if that had made me disappear from their list. 
+
+That's kind of the expected behaviour. Signal is FOSS software, and you can't assume sender based control really exists. Anyone can modify their client in any way they want, including so that it doesn't remove anything received despited gentlemen's agreements such as self-destroying messages that are CONVENIENCE, not security features.
+
+>It's seems especially hinky when this phone number (mis-?)discovery immediately follows that bit where they say "we don't share your contacts", which hinges on a precise reading of the word "share", because your contacts sure do get a notification anyway.
+
+"We don't SHARE CONTACT LIST" doesn't mean "We don't SEND AUTOMATED MESSAGE to existing contacts that have you on contact list too"They haven't. Telegram has no end-to-end encrypted group conversations. No end-to-end encryption on desktop clients. No end-to-end encryption by default. 2^64 bit MITM attack vector, stupid graphical QR code fingerprint that can't be scanned. It's not IND-CCA secure and the encryption protocol does not apply best practices.The price can't be the deciding factor. You have no choice but to try both and see which one (if either) fits best. Selle SMP's T-series saddles might be worth a try too: they seem to be performance over looks design rationale.I did a little bit of reading. According to wikipedia 
+
+>The 7723/0723 series opto-isolators contain CMOS LED drivers and a CMOS buffered amplifiers, which require two independent external power supplies of 5 V each.
+
+Does the buffered amplifier provide added assurance against covert return channel?This sounds extremely interesting. I'll have to do a bunch of reading for this and come back with more questions.Physical access will most likely defeat even tamper evident/proof systems. I would consider something like this a targeted attack however: An unresolved issue that should be acknowledged in the threat model evalation.
+
+Since the primary threat model in HW compromise is foreign governments, component [interdiction](https://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/) is a serious problem: parts may not be available at user's LHWS.If you can't remain professional please excuse yourself.>Agreed. Things like Van Eck phreaking and stupid human error are way more likely on that level anyway.
+
+There's no patch I can write for human error. But thankfully the upcoming design will be a lot simpler. Van Eck Phreaking is out of scope fort this project, but unlike software exploits, it doesn't scale for surveillance.
+
+>There are easier ways to archieve communication than to try to run an optocoupler in reverse.
+
+Indeed. Airgapping the systems is a huge challenge but COTS laptops stripped from transducers from mics to speakers, cams and wireless interfaces come pretty close.
+
+>Also, wtf, on one hand you tell us to assume the optocouplers are unmodifier, then you ask us if a frikkin *microcontroller* in it is feasible?
+
+I tried to make the last segment completely separate topic, issue and question, and I seem to have failed.
+
+>Why not a simple radio transmitter/receiver?
+
+Covert channel over radio is realistic issue but I don't need to ask if it could work. It absolutely could.
+
+>Or a LED in parallel with the phototransistor so you can easily use the thing in reverse? 
+
+How would this be hidden when reverse operation can be tested? >As a first step don't connect the receive line to a GPIO that can be reconfigured as an output.
+
+It's a generic UART interface that has separate tx and rx pins. AFAIK t's not designed to be reconfigurable but the issue is lack of certainty. 
+
+>Just buffer it with whatever.  That at least protects you from software.
+
+I'm not sure if logic level buffer offers any advantages over optocouplers.
+
+>As a general rule though, if you can't trust your components, I don't think it's ever possible to achieve security on top of that. 
+
+Agreed. The attack I was describing was against firmware and software in programmable parts that could exploit ignored issues in the underlying data diode hardware design, such as emitting light with photo diode.
+ >Are you posting design requirements here for a design you're getting paid for by a company?  
+
+No. I'm asking the community to help me understand possible issues in a free hardware design, FOSS software [messaging system](https://github.com/maqp/tfc) I'm building for the community. The design documents I linked to were not mine, and if you scroll down, you can see they are licensed under GNU FDL v1.3. I hope that's unproprietary enough.Remind me which of Telegram clients support end-to-end encrypted group messaging? How many desktop clients have end-to-end encryption at all? Answer in both cases: Not one.
+
+Signal then? All clients always use e2ee.  Well the logjam everyone freaked out on was based on key lengths left in TLS-encrypting servers since 1996 when key length restrictions were lifted. It's not the age that determines how clever or effective an attack is. CIA is succeeding with age old shit and that if something is news worthy. Also they still have zero days etc. The oldest attacks is probably social engineering and they do that too, from calls to black sites. No you don't detect the source of randomness computers use. But you detect it's not a human, because it's too random. Humans are so predictable [algorithms can predict where users are 24 hours in advance](http://www.cultofmac.com/235009/researchers-have-developed-an-algorithm-that-predicts-your-next-location-within-20-meters/). Were your GPS coordinates suddenly jumping around the globe, that wouldn't invalidate previously collected data, nor would it add any valuable data to them so they'd just ignore that data. The chances are that when suddenly everyones system starts making visits to some pages, the pattern of obfuscation becomes clear.
+The date when you visit that site might get obfuscated. But on average the obfuscation adds equal amount of traffic to each site. So variance determines how likely it is that you have actually visited the site.
+
+This is outside my area of expertise. But here's one paper I found https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/05-020.pdf   >I can choose to stop using Google services
+
+https://youtu.be/1zNdw4DaUM8https://torproject.org
+
+Open the Tor browser and set your program's socks5 proxy to localhost:9150. Do not download torrents.Nope. But they can do transparent MITM attacks with stolen private keys and rogue certficates signed via e.g. VeriSign's lawful interception services etc.Cookies do not contain that info, but cookie based session hijacking might reveal favourited videos etc, if coolies are not sent over TLS.Shouldn't you do apt update before upgrade? I even concatenated autoremove after upgrade. Also
+
+    alias sagi='sudo apt install -y"
+
+SO renamed sagi as 'accio' in reference to HP.Can it store layouts created with splitting and can you define default programs to launch in them like Terminator can? Tor's bandwidth has exploded over the past few years https://metrics.torproject.org/bandwidth-flags.html?start=2011-12-31&end=2017-03-31Humans are not random. Computers are not random. Computers generate randomness with pseudo random number generators that follow some distribution, whether it's uniform, Gaussian etc. This distribution is quite easy to detect and eliminate. The most private data is not collected by ISPs as majority of servers today use TLS. When you use red tube, they only see that you watch porn, they don't see what video you're looking at. But what you should also be worried is the internet companies are tracking you and selling your information. Half of TLS is for privacy  half is monopoly of that information.         Trump should not need to be spied on by the US gov. Instead there should be a functional press that holds Trump's government accountable. There isn't. Other countries are spying on US gov, that's something US can't prevent. This has twi sides: the white propaganda brings healthy transparency. But it means legitimate secrets will also leak.
+
+So yes you are right, Trump is using privacy as a weapon. This double think needs to be pointed out. Everyone should take action when government tries to reduce privacy of private citizens, and every voter should remember transparency is meant for public officials.FLU's like UNIX? IIRC Stallman mentioned the issue being that the microkernel they were working had more potential but was much more difficult to debug. Linux Kernel being monolithic took less effort to develop."I'm sure these GNU guys are amateurs and anyone could reduce it by 30%."I see but what does the GNU stand for then?What are the average Joe's common misconceptions?Another thing to consider is the timespan data must be secure: quantum computers will eventually break Diffie-Hellman.
+
+For that it's less straightforward to calculate security. Since Shor's algorithm runs in polynomial time, we can assume it breaks in seconds (as per Tanja Lange's clap-demomstration at PQC hacks -talk) as long as attacker's quantum computer has enough qubits. I put together a table on this recently:
+ 
+    NIST P224        (symmetric strength of 112 bits), broken by  1344-qubit quantum computer
+    Curve25519       (symmetric strength of 128 bits), broken by  1530-qubit quantum computer
+    RSA 1024         (symmetric strength of 80  bits), broken by  2048-qubit quantum computer
+    NIST P384        (symmetric strength of 192 bits), broken by  2304-qubit quantum computer
+    Ed448-Goldilocks (symmetric strength of 223 bits), broken by  2688-qubit quantum computer
+    NIST P521        (symmetric strenght of 256 bits), broken by  3126-qubit quantum computer
+    RSA 2048         (symmetric strength of 112 bits), broken by  4096-qubit quantum computer
+    RSA 3072         (symmetric strength of 128 bits), broken by  6144-qubit quantum computer
+    RSA 7680         (symmetric strength of 192 bits), broken by 15360-qubit quantum computer
+    RSA 15360        (symmetric strength of 256 bits), broken by 30720-qubit quantum computer
+
+While the number of qubits increases linearily, the effort to add them grows faster, perhaps even exponentially (IANAQC).
+
+Finally you have to consider possible backdoors in NIST curves as it would appear NSA has influenced them. We should not invent conspiracies. A much more plausible scenario is surveillance missed the target either because it's ineffective or because it's aimed where it's profitable, not where efforts reduce the next year's budget. The bulk hacking of endpoints is still legal. We know for a fact GCHQ has the legal authority and technical means to bypass end-to-end encryption.[650 Castro St #120-219, Mountain View, CA 94041, USA](https://goo.gl/maps/LrWAjYQq5Mt)That's a pin tumbler lock. Those things are never pick proof no matter what is promised and what style of security pins are used. The ideal choice is a disc tumbler lock. There are multiple manufacturers that have such internals but the original brand is Abloy and they have manufactured them for a century.   I would highly recommend you keep the bike in your apartment/balcony. But if you have no choice, buy Abloy 342/362 padlock and a motorcycle chain when you store the bike in shed, and use slightly smaller Kryptonite during pit stops.Right. I though you meant attacks like this https://youtu.be/HYYm9Lin8X4 that require physical proximity.We train the organisations that later use the same ingredents of fear, hate and ignorance to send people fight holy war, and to keep attention away from how they are exploiting their society. Any violent response is used as further propaganda. Neither political party cares about ending violence becase they gain political and economic power that way. The problem isn't "them", nor is it us. It's the sociopaths leading both societies. You can do it even accidentally https://m.theregister.co.uk/2015/01/14/australia_tries_to_ban_crypto_research_by_accident/While it's a problem, attacks agaist EMSEC aren't exactly the easiest ones to scale.>No one can be 100% sure.
+
+Agreed but the tool has an interesting security guarantee you might be interested in.
+
+>There are two ways to break the encryption product, through the code of the products having back doors or vulnerabilities,
+
+The hardware configuration is designed to defeat key exfiltration with malware.
+
+>or by breaking the encryption itself.
+
+You see that happen rarely but some products like to live on the edge: consider iMessage's 1280-bit RSA keys that Lenstra has already evaluated broken.
+
+But yeah, TFC uses XSalsa20-Poly1305 with keys that are either pre-shared, or exchanged with X25519 (and verified with Signal style fingerprints that the program prompts user to verify). Data stored is padded per field to hide metadata about number of contacts/groups. 100% of persistent user data is encrypted with XSalsa20-Poly1305. Master key is derived from 256-bit salt and password using PBKDF2-HMAC-SHA256 (yeah it's old, the next version will use state of the art Argon2).
+
+>That's why the best products have open source code
+
+It's Free as in RMS (:
+
+>reviewed
+
+There's only so much student loan and dedication can give the world.    Heh funny you should ask. The [tool I'm working on](https://github.com/maqp/tfc) is actually the first FOSS high assurance tool that takes zero days into account by being able to run on data-diode powered hardware configuration that provides endpoint security. If government owns you while you download it, you lose. If they don't, the system becomes secure even against malware that exploits zero days to exfiltrate keys/plaintexts. Even after 3,5 years of development the claims raise eyebrows -- so read the [security design](https://github.com/maqp/tfc/wiki/Security-design) before you make hasty conclusions.     Just switch to ctrl-k'ing that shit to git. I'd prefer a more sophistcated tactic of upgrading parts until I have enough spares to rebuild the old bike.There are 619 encryption products available world wide:
+
+https://www.schneier.com/academic/paperfiles/worldwide-survey-of-encryption-products.pdf
+
+I develop one of these on list and I don't give a fuck what she says. It is end-to-end encrypted, and it will never be backdoored or taken down."[Exploits] do not scale — you don't do them to hundreds of thousands of people, you do them to one or two."
+
+Bullshit.
+
+https://media.ccc.de/v/33c3-8136-stopping_law_enforcement_hacking
+
+https://motherboard.vice.com/en_us/article/fbi-hacked-over-8000-computers-in-120-countries-based-on-one-warrant
+
+https://theintercept.com/2014/03/12/nsa-plans-infect-millions-computers-malware/
+
+http://www.usatoday.com/story/news/politics/elections/2016/11/30/congress-allows-rule-permitting-mass-hacking-government-take-effect/94683030/
+
+https://motherboard.vice.com/en_us/article/gchq-details-cases-of-when-it-would-use-bulk-hacking
+
+https://youtu.be/3euYBPlX9LM Wikileaks accepts donations.Can't wait for the next Sharknado movie.[They told them not to patch](https://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/)Interestingly, [Intel is NSA's strategic partner](http://www.washingtonsblog.com/wp-content/uploads/2014/05/NSA-Partners1.jpg)Except if low level CPUs of firewalls ignore packets with NSA headers or also get hacked.Output of ciphers are indistinguishable from random. The headers in that file however might indicate some messaging protocol but without knowing which, it's impossible to say what cipher is being used.Unencrypted email receipts from online stores. >Not to be nit picky, but I've never seen that 18,000 number before. It was in the thousands, but not that high. 
+
+I apologize. It was 8,000.
+
+https://motherboard.vice.com/en_us/article/fbi-hacked-over-8000-computers-in-120-countries-based-on-one-warrant A more detailed documentary you should find the screening of http://agoodamerican.org/Some NSA malware infects the BIOS of system. Amnesic properties help mainly against covert false evidence insertion.

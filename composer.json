@@ -1,0 +1,25 @@
+{
+    "name": "bobbyshaw/reddit-personalities",
+    "description": "Read reddit comments and provide personality profiles of users",
+    "authors": [
+        {
+            "name": "Tom Robertshaw",
+            "email": "me@tomrobertshaw.net"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "symfony/console": "^3.2",
+        "darrynten/watson-personality-insights-php": "^1.0",
+        "league/csv": "^8.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bobbyshaw\\RedditPersonalities\\": "src"
+        }
+    }
+}

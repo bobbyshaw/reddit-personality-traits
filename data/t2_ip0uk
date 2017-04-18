@@ -1,0 +1,299 @@
+Oh hell yeah I'm in, thanks for the giveaway!Fuck me, that is one seriously punchable face. 
+
+What a piece of shit! Ahh I see, I was half asleep when I asked the question and I assumed you were referring to a HDD. I haven't tried those low profile devices, I'll buy one over the weekend and test it out.
+
+Thanks.If you don't mind me asking, how does the performance of an external HDD compare to using an SD card?
+
+Especially interested in the difference (if any) in regards to read speed.Awesome, just entered.
+
+Thanks for the giveaway!I have the fashion sense of a potato.TIL I was a chav whilst at college/Uni :(Looks great, good job!Thank you... though it was me who was going mad!
+
+Looks delicious regardless. Just to add to this, for games that do not scrape correctly this way you can just press select in Retropie and scrape the games left over manually.
+
+For anything else that is left over you can manually create the game list XML and images folder for that emu in the ROMs directory and copy and paste descriptions etc over from gamesdb into the XML file.
+
+I finally finished this off today, so happy! Raspmanager for android allows you to do many useful things including using reboot, shutdown etc as well as inputting your own commands which you can save for later use.  Do you mean as in a complete shutdown of the pi itself?
+ 
+
+Edit:  if that's what you're asking you can use:  sudo shutdown -h Same here and if anyone did pick him then everyone v oddjob was fair game!Well I think you all have turned me off the game... I'm really not into sims and this sounds hard as hell.
+
+I'd really like forza 3 but there's no way I'm paying the asking price, probably give dirt away rather than let it languish in my steam account.Ahh thanks for the heads up, I'm more of an arcade racing fan (mainly because I suck at racing sims) .. I'll still check it out though. Yeah I'm really impressed with the selection overall, not a single game this month I'm not going to play through, might unlock early too as inside looks really interesting and I haven't played a dirt game in years.
+
+Good job humble!Got a bunch of sealed games such as little big adventure, half life, discworld 1 and 2 (a game I play every few years, have 3 copies) and a load of open box microprose games.
+
+Also have some old CPUs and my old GPUs stashed away somewhere including a voodoo 1, voodoo 2 etc.
+
+Loads of other non gaming related PC stuff as well. 
+
+Edit: A couple of other open box games I know I have in the attic somewhere are zork nemesis, myst and riven. Completely plug and play for me using retropie (previous and current versions) did a couple of checks and it was running at 1gbps full duplex out of the box.
+
+Easy enough to do manually though If whatever you run needs setting up, just a few lines.Just re ran some tests, although it will peak at around 350 expect an average of around 280mbps.
+
+Considering it's running off a USB 2.0 port I'd say it's more than acceptable.
+
+Not sure if it makes a difference but I'm using a fast, high quality micro SD card.I use one of these:
+https://www.amazon.co.uk/TRENDnet-TU3-ETG-Gigabit-Ethernet-Adapter/dp/B00FFJ0RKE/ref=sr_1_1?ie=UTF8&qid=1491087062&sr=8-1&keywords=trendnet+tu3-etg
+
+Had it a few weeks now, plug and play, no issues at all and much faster than either onboard WiFi/Ethernet. 
+
+I mainly purchased this to stream my PC games via moonlight to my living room TV, using this adaptor I've been able to increase streaming quality several times.
+
+Good for around 350mbps.Aww man don't spoil this for me.It doesn't matter if it's illegal as they'll simply change the law to make it legal without much of a whimper. This country is well and truly fucked when it comes to privacy, nothing surprises me any more.
+
+It's not even worth arguing the point with people on why privacy matters any more as sadly most people simply do not care.That was my thought too, sure it may look clean but there's no way in hell I'd eat anything cooked in it!This is exactly how I have my pi setup. Retropie is the main install with Kodi, moonlight, ports etc installed as addons.
+
+This is the video I used to help me set Kodi up within retropie: 
+https://youtu.be/RQETOPCgSZUIt definitely is not a retro looking controller but if you want analog sticks it's good for the price.
+
+Tried it on several PC's, pi and android and it truly is a no hassle plug and play Xbox 360 clone at a discount price, just installed moonlight and it works flawlessly with that too.
+
+If you find something that looks the part please let us know. I use one of these:
+https://www.amazon.co.uk/EasySMX-Wireless-Controller-Portable-Joystick/dp/B01KVBL4U2
+
+
+Really good quality for the price and works flawlessly.Another suggesting the Buffalo controllers. If you go cheap, expect poor build quality and even worse squishy buttons with no feedback.
+
+Spend the extra few £'s and get the Buffalo SNES controllers they are excellent. 
+
+Also great for most neo geo, mega drive,  mega cd games etc. There are of course a few mega drive games that use 6 button controllers but there's only a couple of decent games imo that utilise 6 buttons so overall the SNES seems the best choice and the Buffalo ones are excellent. Thanks for the reply, it's what I was expecting so I'm not too bummed. 
+
+I saw that it was closed and having used it on android I was surprised to see it for free.
+
+Can't complain really but thought I'd ask as it runs so dammed well, thanks.No probs, I also found the YouTube user 'TriplusTutorials' also has some very helpful videos.
+
+Have fun!Only a noob myself, had my pi for a few days. But I've managed to get everything working.
+
+This video and this guys videos are pretty good if not a bit wordy:
+https://youtu.be/bLHh5b2IWxQ
+
+That video will show you what to do to get additional emulators installed.
+
+A few things, Dreamcast emulation is in my opinion just outside of the pi3s capabilities, n64, ps1 and the ds  is currently within it's scope and most games run fine and I'd say are the pi3's limit.
+
+Easiest way to copy ROMs is to format a USB stick with fat32, create a directory called retropie, plug it into the powered up raspberry then wait 10 minutes and shut it down.
+You will now have a list of directories on the usb stick, just copy your ROMs across, plug it into the pi, boot up and wait for them to automatically copy across.
+
+
+Install raspmanager on your android device so you can easily see how much has been copied across, you can also force close processes and reboot etc.
+
+
+Install and get used to putty.
+
+
+Consider over-clocking, mine now runs n64 games well in addition to some tweaks.
+
+
+Sometimes a newly installed emulator or one that worked will disappear and by far the easiest way for someone used to windows is to edit the config files via an ftp client such as filezilla. You will
+need to first ssh in with putty and cmod777 that file or directory which will allow you to use your GUI based ftp client to modify files.
+
+
+Google install kodi as it's own system within retropie if you want kodi.
+
+
+Don't forget about ports such as streets of rage remake.
+
+Sorry if this is a bit of a ramble I've not long been up, was in the same boat as you a few days back so if you need any more help just ask as it's all fresh in my head.
+
+ Same problem here, just purchased a fan for my pi and no email notification or order history available. Kind of relieved as I thought something was up with my account.
+
+According to a post on downdetector an Amazon support member mentioned that there is maintenance going on which should be completed within the hour... we'll see.Same here but also film grain, head bob, mouse acceleration, fov and the worst offender chromatic aberration.
+
+Dof is fine by me as long as it's subtle and done right.Fuck, you get me every damn time!I gotta be honest, I have no interest in warhammer so I gave it to my brother. Yes it's underwhelming but last month was so good I expected it.
+
+So no games for me this month but I'm still keeping the bundle as on average you get a hell of a lot for pocket change.Nah, just 'alternative facts'.Don't think they have announced anything yet, got my fingers crossed.
+
+Best of luck!This infuriates me so much and is way too common especially when it comes to coding etc 087
+
+Thanks :)57, thanks :)Ahh I didn't realise you had played both games, I'll fire up shadow of Mordor Sunday and see if I can get into it and like the story.
+
+Thanks for the input.Yeah I still can't decide between shadow of mordor and dragon age Inquisition. Shadow of mordor looks amazing graphically but DA: Inquisition also looks pretty good.
+
+
+I've seen all of the LOTR trilogy and I read the books a long time ago but I absolutely loved DA:Origins storyline.
+
+
+Reading around DA:Inquisition is meant to have the better story which is very important to me.
+
+I always have this debate in my head when choosing which RPG to play because of the time commitment and I'm a completionist.
+
+So probably DA:Inquisition.Finishing off dishonoured 2, I put it down for a couple of weeks as I got bored half way through dust but I've fallen back in love with it, I just felt that level ended up being a bit of a chore and was maybe too big.
+
+Overall I've really enjoyed it and I made sure to purchase it after a lot of the initial teething bugs were ironed out. 
+
+Not sure what to play next, haven't fired up watchdogs 2 yet but I think I'll let that sit for a while longer and start up Obduction.
+
+Oh or maybe shadow of mordor as I picked up that dirt cheap ultimate bundle.
+
+Decisions...      
+
+Edit:
+Well I just purchased dragon age Inquisition goty, arkham knight and GTA V.... now I'm really stumped.
+
+I gotta stop buying these deals for a while.Same here, it was one of only a few games I wanted from the bundle. If it comes back in stock I'll buy the bundle in a heartbeat but I won't hold my breath.
+
+Serves me right for waiting to pull the trigger.Thanks, I'll check that out too.Holy shit, never head this album before. .. amazing so far!  
+
+Thanks man. Count me in, thanks for the give away!One of the best Kairosoft games in some time imo, much better than march to a million.My first month too, couldn't pass up Xcom 2.
+
+Some really great games, think I'll keep the monthly recurring! That's my order as well but I'd add Kairobotica, epic astro story and biz builder deluxe. Thanks for the giveaway, I nominated my brother as I'm now single and my bro is also a PC gamer. Thanks!UK here, I registered for both a few weeks ago and they have also disappeared for me. If I do a google search for fire emblem I get the unsupported device message.
+
+I downloaded the APK to give it a shot but it crashes on launch, this is on an Intel cherry trail based device running Android 5.1.1    
+
+Really hope this is resolved as I'm looking forward to Mario Run. How the hell could someone not get that, were they paying attention to the film or on their phone?
+
+You were practically spoonfed the plot at a slow pace that by the time the credits were rolling I'd imagine even the most dense could put it together.Ahh sweet, I knew saving these play store credits would come in handy. Thanks for the heads up!You can get lcd glass panels or even lcd blackout film to apply to existing windows. 
+
+I have a feeling that the cost is going to be high.I waited for months for them to come in stock in the UK from a reputable company at a reasonable price... It never happened and I've been on email reminders from several companies for over 4 months to be notified when they come in stock... Nothing. 
+
+I ended up getting a second hand pre k1 bundle off ebay from a seller with a lot of feedback at 100% and the price was reasonable. 
+
+Check eBay if you don't mind second hand,  there are several auctions right now. 
+
+You'll be hard pressed to find one new for under £200.Damn that makes my blood boil. The way we treat the elderly, especially in the west is in need of some serious reforms. 
+
+A good start would be paying carers more and weeding out the ones who don't give a shit or are out right abusive but I can't see that happening anytime soon. 
+
+The amount of elderly care jobs i see going mainly require no experience or training and pay peanuts so unfortunately a lot of shitty people apply. 
+
+I'm sure there are plenty of decent carers and it must be an emotionally demanding job for little money but there are so many news reports of people in elderly care who get abused by their so called carers... really breaks my heart. No lag here on my pre k1 rooted shield. 
+
+I recommend installing Lspeed and applying most of the tweaks in conjunction with startup manager and limiting background apps to 4.
+
+Also install os monitor to see if any intensive processes are still running in the background. 
+
+Runs like a charm. What the fuck, just why? Exactly I grew up playing Nintendo and Sega consoles so I'm not sure how someone around my age would find it weird. 
+
+I think we'll just settle on them being a little close minded. Yup, I switched over to solid explorer from es file explorer a while back and it's well worth the £1.50. 
+
+No bloat, adware, clean UI and no background processes.  Only downside is I can't seem to copy and paste from an external usb drive using an otg cable to internal storage which can be annoying. Oh you are totally correct I was just surprised that someone whose main function is to sell stuff ended up losing a sale.
+
+I get them asking if it was for my kids as I am old enough to have some (I do not) but I know plenty of people much older than me who have some kind of Nintendo device.  It was more the way they acted when I said it was for me that pissed me off. 
+
+I purchased one online in the end which was cheaper anyway despite the deal. 
+
+I may be in my early 30s but I love Mario/Kirby/Yoshi games,  ain't no way I was missing out. I'm using one right now,  it's an amazing tablet and despite being 2 years old it's still one of the fastest Android based tablets you can buy for gaming. 
+
+Great build, display, audio and battery life,  mine is the pre k1 rebrand meaning it's a 32gb 4G LTE variant with a micro sd slot. You can also stream full pc games as long as you have a fast,  stable broadband connection. 
+
+As already stated they didn't sell like hot cakes probably due to fragmentation as there are so many android devices to choose from but I'd argue they still sold well. 
+
+It's a shame that there won't be a shield v2 but it's what everyone who owns one has suspected for a while since it was announced that Nvidia was working on a mobile device with Nintendo. 
+
+Fingers crossed that someone will figure out how to dual boot the Nintendo tablet with Android os as I have a ton of purchased games from the play store but that's probably a pipe dream. 
+
+I'll buy the new Nintendo tablet anyway because Mario but I'll order online this time because when I went to game to purchase myself a 3ds I was asked if it was for my kid's then when I said no it's for me I was basically called a weirdo for wanting a kids toy and I should buy an xbox instead.... 
+Thanks for the heads up, it's what I was expecting anyway just wanted confirmation. 
+
+There seems to be a trend lately of games going on sale with IAPs when I'm sure they didn't have them beforehand. 
+
+Saved me an install,  thanks. Wow... That's quite a stretch. I purchased it a few days ago.  Sadly even though I'm a massive red dwarf fan I have to say that the 'game'  absolutely stinks. 
+
+At least it only cost a pound, such a shame they couldn't come up with anything better for the fan-base though. Ah I see where you are coming from, I think I'll still purchase it but wait for a discount. 
+
+Thanks for the info. No problem,  enjoy! Thanks for the heads up,  after viewing a video review I think you're probably correct but as a fan of the game I'll probably still pick it up at some point when it's cheap.  I can imagine giving the kids constant reassurance could become old quick if not done correctly.  Not played it on a mobile device so I can't say how it controls with touch input but i played it to death on the pc. 
+
+One of my favourite games I played last year, the game is pretty unique and you'll find yourself emerged in the gloomy story and actually giving a crap about the characters. 
+
+Replay wise it's also pretty good as each new game you can choose different characters each with their own story's,  strengths and weakness as well as having access to different parts of the map which change on replay,  I won't go into any more detail on that as it may spoil the fun. 
+
+I played it almost exclusively for 3 months before i decided to put it down to play something else, given the price i think I'm going to pick it up myself and play it to death again on my tablet. 
+
+You'll get a lot of fun out of it and it's well worth the price,  just be sure to play with sound as it really adds to the atmosphere. 
+
+EDIT: So I just purchased it and played for half an hour or so, touch controls seem really well done and the game feels smooth using an nvidia shield tablet 
+
+The only iap is for the dlc expansion from what I can see which is fairly priced at around £2.80. Depending upon how much content is included I'll buy the dlc at a later date.   
+
+Good stuff. 
+
+Awesome, just what I was hoping for.  You got me off the fence, will purchase this evening. Cheers. Damn that looks good but it's pretty pricey.  How many hours did you get out if it?  Thinking of buying it if its long enough. Same, was looking forward to trying this out as well. Strange as Vulcan is supposedly included with the latest build.Shield tablet here, app is apparently not compatible with my device. Using latest marshmallow build and its updates. I'm rooted but doubt it's that.I picked the original up on eBay in excellent condition with world charger, smart cover, stylus, wireless controller and a 64gb Samsung evo+ for £135... They posted it in the wrong category.
+
+Keep an eye out.A half used packet of instant mashed potato as a house warming gift.  
+
+I didn't expect anyone to buy gifts,  just bring a bottle for the party. I did say thank you then threw it in the bin the following day as that shit is nasty.  I picked one up that was advertised for the x80h as there is a 0.2mm difference in size.  It fits just fine.  Picked up my pro yesterday,  removed windows and have found a way to root it. 
+
+Apps to sd etc fully working. 
+
+You end up with the wrong dpi and the tablet thinking its missing a sim card but it works completely. 
+
+Dpi is easy to fix so as long as you can live with the no sim notification and the sim setting etc in system settings then let me know and I'll post a link to some downloads and write up some decent instructions. That's some damned fine handwriting, well compared to mine anyway.Exactly, I have a 2600k which I purchased when they first came out running at 5GHz under water and 32GB DDR3 2133 MHz.
+
+It does everything from general use, development and gaming and I see no reason to upgrade.
+
+The machine starts up in a few seconds and I game at 2k with a 390 with excellent frame rates.
+
+Only thing that I have upgraded over the past few years is the GPU, I see no reason to upgrade anything else just yet.It honestly did happen and it happens a lot, not just to Lithuanian people of course.
+
+I just did a quick [google](https://goo.gl/1M25w6) search.Certainly is a thing that a lot of people are ignorant to in first world countries.
+
+I grew up in a nice middle class area in England and we had what we assumed were a foreign couple move in across the street who were a couple of weeks later joined by another couple of women.
+
+They all kept to themselves and lived there for nearly 2 years before the house was raided one morning; turns out the guy was a pimp and these women were all being whored out via a massive network across the local area.
+
+They as in most cases had travelled here (I think from Lithuania) with the promise of jobs only to be forced into prostitution with the threat of violence against them or their family members if they didn't comply whilst the people who had effectively enslaved them made a fortune.
+
+You would honestly never tell that nicely kept house in the middle of a quiet street was being used for such purposes.Honestly I have tried before but some cinemas are reluctant to give you a refund around here based on that, I did turn around and plead with the parents to please keep it down but all I got was dirty stares, better than abuse that I have received in the past I suppose.
+
+We even went for a 10pm showing which meant it would be almost 12:30am when the film finished in the hope of avoiding this to no avail, I mean who takes their kids to the cinema this late anyways?
+
+It's not even really suitable for them, there were a couple of torture scenes but there was a lot of dialogue etc where their kids got particularly restless because they were bored; I don't blame the kids at all as it was entirely the parents fault.
+Going by the replies of her other friends you are better off jumping ship.
+
+Reminds me of when I went to watch the new bond movie a few weeks back, the couple behind me had a toddler and 2 7-10 year olds... nothing but screaming, moaning and kicking all the way through :(Thanks for the reply, this guy is very clever in the way in which he is going around making peoples lives miserable at work.
+
+Thankfully he is digging his own grave and in the past week has been disciplined twice by his manager, once for insinuating someone was a drunk and came in to work drunk which was of course a load of rubbish and another for making fun of an employee with a physical disability.
+
+He has also had complaints made against him by customers regarding his attitude towards them and staff members.
+
+Looks like he will see himself out.I didn't even realise more than 2 existed until today. 
+
+I was half way through Jurassic park, went out for a cigarette and upon my return this was put on because the dinosaurs were too scary.
+
+I wouldn't mind but it was pepper fucking pig all day... I don't even have kids.Saturday :)Having worked with people like this my bet is that she wouldn't even care if she realised due to her being high up in the company.
+
+You think a shark would give a fuck about a shrimps opinion is the best analogy I can come up with 1/2 a bottle of vodka in.Ahh good old religion.
+
+On next weeks episode pastor umbuko drives up his seed giving campaign and speeds off in his new Bugatti Veyron.Honetsly [this](http://www.wikihow.com/Make-Samosas) is a very easy way of doing it.
+
+Don't worry about the ghee, I just use a mix of veg oil and a bit of butter.
+
+Some pointers: 
+
+Roll that pastry as thinly as you can.
+
+Don't over pack them else the filling leaks out which is a pain in the ass when deep frying.
+
+Make sure to seal them properly else the filling will come out whilst deep frying and mess your oil up.
+
+Don't let the oil get too hot else you risk making the pastry way too hard and beware the bubbling... some of my first attempts some time back had to be lanced.
+
+Also, use the bottom half of a cake tin that is 6-8 inches in diameter and cut down the middle to do the cones and use the biggest pan you can to deep fry them in, this saves a lot of time and oil.
+
+It may take you a few trial and error attempts to get the pastry correct and remember a lot of people are used to eating the pastry once it's cooled so it may look very hard at first but once cooled it should have that slightly greasy bubbled texture that you are probably after.  
+
+It looks like effort but really once you have done it a couple of times the only thing that takes time is frying them and your mouth watering whilst they cool a little.
+They are also very easy to make once you get the hang of it and very cheap to make, especially vegetable samosas.
+
+The left over dough can be used to make chapatis.
+
+I never played it on console but had it on PC, I almost put it down after an hour but I stuck with it and I had a lot of fun.
+
+Don't get me wrong, it was quite broken and half the time I had no idea what the fuck I was doing (the quest marker was so confusing at first) but it was enjoyable despite its flaws and got me though the uni summer holiday despite my other halfs protestations. 
+
+To me it was a means to an end, yes you can't polish a turd but one mans trash really is another mans treasure.
+
+The plastic part that my sim card came attached to.Never heard this up until now.... thanks for that.
+
+Not sure if I really want to find out what 'nae nae' or stanky leg means.He shall forever be renamed 'Hameron', in my mind.I'm afraid that I cannot downvotethiscontentI have seen it and I'm not sure which I place above the other, they are definitely my personal top contenders. 
+
+For some reason Martyrs hit me harder out of the two.Definitely the most fucked up film I have ever seen... enjoy.
+
+Edit: Be sure to pick up the unrated version.If I ever visit my family in the states there is no way I'm going on the train.
+
+Saying that the tube (off peak London) scares the shit out of me as well.
+
+Either I'm a pussy or I just like to live my life.
+
+Thank fuck I have a car.North and South you say...
+
+I guess my mom was right, it really is all about perspective.
